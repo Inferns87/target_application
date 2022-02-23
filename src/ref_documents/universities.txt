@@ -1,0 +1,1055 @@
+CardiffUniversity,10007814-14--2. Engineering Solutions for High Level Nuclear Waste Disposal.pdf,software
+CardiffUniversity,10007814-1--1. The Dermatology Life Quality Index_ the leading patient-orientated dermatolog.pdf,software
+CardiffUniversity,10007814-10--2. Meeting the Challenges of Data Security.pdf,software
+CardiffUniversity,10007814-15--4. Low-Carbon Engine Design Through Integrated Computer Simulation-Validation.pdf,software
+CardiffUniversity,10007814-14--1. Improved Flood Hydrodynamic, Hazard and Water Quality Model Predictions.pdf,software
+CardiffUniversity,10007814-4--6. A programme developed and delivered by Cardiff University transforms access t.pdf,software
+CardiffUniversity,10007814-7--1. Understanding the properties of caprocks to improve hydrocarbon.pdf,software
+CardiffUniversity,10007814-16-B-1. Energy and Environmental Modelling at Building and Urban Scale.pdf,software
+CardiffUniversity,10007814-8--2. Transforming quantitative prediction of molecular properties through software.pdf,software
+CardiffUniversity,10007814-32--2. Enabling critical engagement with academic research in A-level Philosophy.pdf,software
+CardiffUniversity,10007814-4--5. Cardiff research leads Welsh Government and England's Department of Health to.pdf,software
+CardiffUniversity,10007814-9--3. The Herschel Space Observatory_ scientific and technical outreach.pdf,software
+CardiffUniversity,10007814-11--Realising the potential of 3D scanners through reverse engineering and digital s.pdf,software
+CardiffUniversity,10007814-29--1. Creating a Searchable Database of Victorian Illustrations for Multiple Use.pdf,software
+CardiffUniversity,10007814-16-A-Spatial Design Network Analysis (sDNA) - A network analysis tool for evidence-ba.pdf,software
+CardiffUniversity,10007814-11--Enabling the Catalogue of Life to index the world's species.pdf,software
+LancasterUniversity,10007768-19--Improving Make-To-Order Manufacturing Planning_ The Lancaster 'Workload Control'.pdf,software
+LancasterUniversity,10007768-7--Societal and economic benefits from improved flood modelling based on pioneering.pdf,software
+LancasterUniversity,10007768-29--Corpus Research_ Its Impact on Industry.pdf,software
+LancasterUniversity,10007768-29--Language Testing_ Assessing Proficiency and Improving Education.pdf,software
+LancasterUniversity,10007768-23--Child Protection in a Digital World_ Reducing Direct and Indirect Risk.pdf,software
+LancasterUniversity,10007768-19--Addressing the Inherent Biases in Automated Systems_ On Detecting 'Plagiarism'..pdf,software
+LancasterUniversity,10007768-25--Enhancing Learning by Targeting Learner Needs.pdf,software
+LancasterUniversity,10007768-10--Optimisation of the UK's flood defence infrastructure through the use of innovat.pdf,software
+LancasterUniversity,10007768-11--Investigative toolkit and associated techniques to support online child protecti.pdf,software
+LancasterUniversity,10007768-11--Research on natural language processing leading to improved language tests and d.pdf,software
+LancasterUniversity,10007768-11--Impact of QoS research on the global TETRA radio standard.pdf,software
+UniversityofOxford,10007774-34--THE WOOLWORTHS CHOIR OF 1979_ widening public awareness and appreciation of cont.pdf,software
+UniversityofOxford,10007774-10--UOA10-08_ Mathematics in the design and manufacture of novel glass products.pdf,software
+UniversityofOxford,10007774-31--Promoting Awareness of Greco-Roman Culture and Literature through Papyrology.pdf,software
+UniversityofOxford,10007774-11--UOA11-08_ Reasoning Systems (HermiT) .pdf,software
+UniversityofOxford,10007774-11--UOA11-03_ Securing Data with Database Firewall .pdf,software
+UniversityofOxford,10007774-5--UOA05-16_ BioAnaLab Limited_ a contract analytical laboratory.pdf,python
+UniversityofOxford,10007774-10--UOA10-02_ Adjoint sensitivities in computational finance bring orders-of-magnitu.pdf,software
+UniversityofOxford,10007774-28--Preserving a linguistic heritage_ Biak, an endangered Austronesian language.pdf,software
+UniversityofOxford,10007774-18--Improving modelling and forecasting in the public and private sectors.pdf,software
+UniversityofOxford,10007774-32--The Philosophy of Computer Programming and its Applications.pdf,software
+UniversityofOxford,10007774-5--UOA05-14_ Prolysis Ltd_ novel methods for antibiotic discovery.pdf,software
+UniversityofOxford,10007774-28--Public dissemination of the British National Corpus.pdf,software
+UniversityofOxford,10007774-9--UOA09-10_ The Mars Climate Databsase for spaceflight missions.pdf,software
+UniversityofOxford,10007774-5--UOA05-05_ Glycobiology platforms_ enabling technologies for the biopharmaceutica.pdf,software
+UniversityofOxford,10007774-11--UOA11-01_ Automated Software Design and Verification.pdf,software
+UniversityofOxford,10007774-17-A-Accurately dating the past - OxCal_ free software for the calibration of radioca.pdf,software
+UniversityofOxford,10007774-7--UOA7-02_ Development and application of commercial inorganic mass spectrometers .pdf,software
+UniversityofOxford,10007774-1--UOA01-18_ Planning for a Future with Diabetes_ Tools to Assess Diabetes Risk and.pdf,software
+UniversityofOxford,10007774-5--UOA05-11_ BEAST and Phylogenetic inference in viral disease epidemiology.pdf,software
+UniversityofOxford,10007774-11--UOA11-07_ Automated Verification and Validation for Defence, Aerospace and Autom.pdf,software
+UniversityofOxford,10007774-10--UOA10-03_ Pharmaceuticalяand biotechnology companies gain economic benefits from.pdf,software
+UniversityofOxford,10007774-11--UOA11-05_ Boinc - Volunteer Computing .pdf,software
+UniversityofOxford,10007774-15--UOA15-10_ Boujou_ special effects software for the film industry.pdf,software
+UniversityofOxford,10007774-9--UOA09-01_ The Zooniverse citizen science projects .pdf,software
+UniversityofOxford,10007774-9--UOA09-11_ Absolute distance measurement.pdf,software
+UniversityofOxford,10007774-9--UOA09-04_ Exploring live events from the LHC on a smartphone .pdf,software
+UniversityofOxford,10007774-8--UOA08-09_ Computational chemistry to facilitate drug development .pdf,software
+UniversityofOxford,10007774-17-B-Reconfiguring policy scenarios in transport.pdf,software
+UniversityofOxford,10007774-11--UOA11-04_ Semmle_ a powerful query language for analysing large data sources.pdf,software
+UniversityofOxford,10007774-15--UOA15-06_ Vital sign monitoring for hospital patients .pdf,software
+UniversityofOxford,10007774-31--Achieving Economic and Cultural Impact through Digital Humanities_ The Effect of.pdf,software
+UniversityofOxford,10007774-11--UOA11-06_ Validation of Embedded Systems with Bit-Accurate Floating Point.pdf,software
+UniversityofOxford,10007774-10--UOA10-01_ Computational fluid dynamics_ the Rolls-Royce HYDRA code for jet engin.pdf,software
+UniversityofOxford,10007774-10--UOA10-10_ Development and implementation of mathematical algorithms enhance perf.pdf,software
+UniversityofOxford,10007774-15--UOA15-05_ Imaging software for cancer diagnosis.pdf,software
+UniversityofOxford,10007774-10--UOA10-14_ R, a free software environment for statistical computing and graphics.pdf,software
+UniversityofOxford,10007774-10--UOA10-15_ Exploitation of rapid protein structure prediction tools.pdf,software
+UniversityofOxford,10007774-9--UOA09-02_ Climateprediction.net_ engaging the public in climate science .pdf,software
+CourtauldInstituteofArt,10007761-34--Web project Gothic Ivories, led by Professor John Lowden.pdf,software
+OpenUniversity,10007773-29--Engaging the public in the History of Reading - The Reading Experience Database,.pdf,software
+OpenUniversity,10007773-11--Supporting effective live, visual, virtual collaboration.pdf,software
+OpenUniversity,10007773-11--Increasing society's capacity to tackle complex, socio-technical dilemmas.pdf,software
+OpenUniversity,10007773-31--Digital Classics - transforming standards and access to data on the ancient worl.pdf,github
+OpenUniversity,10007773-25--Enabling publics to participate in science learning through technology.pdf,software
+OpenUniversity,10007773-19--Improved decision-making for traders and private investors in financial markets.pdf,software
+OpenUniversity,10007773-10--The self-controlled case series method in pharmacoepidemiology.pdf,software
+OpenUniversity,10007773-13--Neutron diffraction strain measurement for industry.pdf,software
+OpenUniversity,10007773-34--Design thinking.pdf,software
+OpenUniversity,10007773-10--Standard methods of analysing single-patient data in neuropsychology.pdf,software
+TheUniversityofWestLondon,10006566-11--Institutionalising HCI in Asia_ an impact focusing on India and China.pdf,software
+TheUniversityofWestLondon,10006566-11--Development of model-driven software methods that support knowledge-based, proce.pdf,software
+UniversityofStirling,10007804-4--EvoFIT_ Applying Psychology To The Identification Of Criminals.pdf,software
+UniversityofStirling,10007804-32--Context, Embodiment and Online Surrogacy_ the Impact of 4E Cognition Research on.pdf,software
+UniversityofStirling,10007804-11--Sentic Computing.pdf,software
+UniversityofCambridge,10007788-11--Ubisense .pdf,software
+UniversityofCambridge,10007788-18--Pesaran.pdf,software
+UniversityofCambridge,10007788-9--Dasher.pdf,software
+UniversityofCambridge,10007788-5--Antigenic Cartography.pdf,software
+UniversityofCambridge,10007788-19--Thompson 4 Oct 2013.pdf,software
+UniversityofCambridge,10007788-9--Castep.pdf,software
+UniversityofCambridge,10007788-28--Nolan.pdf,software
+UniversityofCambridge,10007788-11--Xen .pdf,software
+UniversityofCambridge,10007788-17-B-Oppenheimer.pdf,software
+UniversityofCambridge,10007788-15--Granta Design.pdf,software
+UniversityofCambridge,10007788-4--Management and outcome of head injury and CSF disorders_ from experimental medic.pdf,software
+UniversityofCambridge,10007788-15--DRed.pdf,software
+UniversityofCambridge,10007788-4--Touch screen based cognitive testing for rats and mice - Bussey.pdf,software
+UniversityofCambridge,10007788-4--CANTAB-PAL, a novel mobile application for detecting Alzheimer's disease and ass.pdf,software
+UniversityofCambridge,10007788-8--Chem 4 Word.pdf,software
+UniversityofCambridge,10007788-15--Vibration modelling.pdf,software
+UniversityofCambridge,10007788-15--Speech technology.pdf,software
+UniversityofCambridge,10007788-7--Imaging Below Basalts.pdf,software
+UniversityofCambridge,10007788-7--Sedimentary Basins.pdf,software
+UniversityofCambridge,10007788-11--RealVNC .pdf,software
+UniversityofCambridge,10007788-10--Image Processing for Fluid Mechanics.pdf,software
+UniversityofCambridge,10007788-16--Sustainable Urban Land Use and Transport Modelling and Policy Impact Case Study .pdf,software
+UniversityofCambridge,10007788-10--Methods for Comparing Clinical Outcomes across Institutions .pdf,software
+UniversityofCambridge,10007788-1--Evidence based imaging - Impact of Body CT and MRI  in clinical practice-Dixon.pdf,software
+UniversityofCambridge,10007788-9--Grid Computing.pdf,software
+UniversityofCambridge,10007788-1--Accelerating structural biology with Phaser crystallographic software-Read.pdf,software
+UniversityofCambridge,10007788-9--Cambridge Positioning Systems.pdf,software
+UniversityofCambridge,10007788-15--3D ultrasound.pdf,software
+UniversityofCambridge,10007788-11--Security Economics.pdf,software
+UniversityofCambridge,10007788-4--A new standard for measuring loudness - Moore.pdf,software
+UniversityofCambridge,10007788-15--Sandwich structures.pdf,software
+UniversityofCambridge,10007788-9--Geomerics.pdf,software
+UniversityofCambridge,10007788-4--Using functional imaging to detect covert cognition in the vegetative state - ma.pdf,software
+UniversityofCambridge,10007788-5--CCPN_ A novel approach to data exchange between software applications.pdf,software
+UniversityofCambridge,10007788-5--real time clinical imaging of tumour metabolism.pdf,software
+UniversityofWalesTrinitySaintDavid,10007858-15--Knowledge Transfer Centre in NDT.pdf,software
+UniversityofReading,10007802-6--Crops and climate change research informs international policy.pdf,software
+UniversityofReading,10007802-34-B-Enriching communities of literacy_ typographic support for world scripts.pdf,software
+UniversityofReading,10007802-7--Limiting the disruption to aviation caused by volcanic eruptions using balloon o.pdf,software
+UniversityofReading,10007802-34-A-Enhancing access and interpretation in museums and heritage sites for people wit.pdf,software
+UniversityofReading,10007802-7--TRACK_ identifying storms in meteorological data for quantitative analysis.pdf,software
+UniversityofReading,10007802-13--Intelligent Systems incorporating Automatic Classification and Carbon Footprinti.pdf,software
+UniversityofReading,10007802-7--Drought Monitoring and Early Warning for African Food Security Using Remote Sens.pdf,software
+UniversityofReading,10007802-31--Bringing ancient Rome to life through digital architectural modelling.pdf,software
+UniversityofReading,10007802-10--Informing international decision making on the protection of elephants.pdf,software
+UniversityofStrathclyde,10007805-12--Novel orbits for solar sail spacecraft_ adoption by international space agencies.pdf,software
+UniversityofStrathclyde,10007805-12--Guidelines and standards which improve design and safety of marine structures su.pdf,software
+UniversityofStrathclyde,10007805-13--Electronic monitoring of dairy herds increases efficiency and reduces costs for .pdf,software
+UniversityofStrathclyde,10007805-29--Digital linguistic analysis as a rehearsal tool at Shakespeare's Globe Theatre.pdf,software
+UniversityofStrathclyde,10007805-13--Economic and environmental benefits from adoption of active power network manage.pdf,software
+UniversityofStrathclyde,10007805-19--Increasing inward investment in Scotland and enhancing union responses to offsho.pdf,software
+UniversityofStrathclyde,10007805-8--A unique computer technology for the accelerated discovery of drugs that _shape-.pdf,software
+UniversityofStrathclyde,10007805-10--Commercial advantage through computational discovery of dynamic communicators in.pdf,software
+UniversityofStrathclyde,10007805-12--Improved efficiency and design practice in European maritime industry.pdf,software
+UniversityofStrathclyde,10007805-11--Improved video surveillance and customer relations management through efficient .pdf,software
+UniversityofStrathclyde,10007805-16--Building performance simulation with computational modelling software enables pr.pdf,software
+UniversityofStrathclyde,10007805-8--PolySNAP Computer Software for enhanced processing and classifying of crystallog.pdf,software
+UniversityofStrathclyde,10007805-9--Market leading sales of fluorescence spectrometers for multidisciplinary applica.pdf,software
+UniversityofStrathclyde,10007805-19--Improved group negotiation, problem solving, and strategy making in private and .pdf,software
+UniversityofStrathclyde,10007805-13--Improved monitoring of graphite cores supports the safety case for life extensio.pdf,software
+EdgeHillUniversity,10007823-11--Improving quality assurance of a large software model through relative debugging.pdf,software
+EdgeHillUniversity,10007823-26--Changing practice in the consideration of fatigue as an aetiological factor for .pdf,software
+EdgeHillUniversity,10007823-11--Developing simulation software in order to improve technology enhanced learning .pdf,software
+TeessideUniversity,10007161-15--Multi-constraint and multi-dimensional visual coordination approaches and tools .pdf,software
+TeessideUniversity,10007161-11--Document Engineering of Clinical Guidelines.pdf,software
+TeessideUniversity,10007161-30--Engaging with British Regional and Urban Culture.pdf,python
+TeessideUniversity,10007161-34--Changing Cultural Perceptions of Disability and Difference.pdf,software
+TeessideUniversity,10007161-11--Interactive Storytelling Technologies.pdf,software
+RoehamptonUniversity,10007776-28--Media for All_ Live Subtitling for Deaf and Hard of Hearing People Around the Wo.pdf,software
+RoehamptonUniversity,10007776-25--Sounds of Intent.pdf,software
+CityUniversityLondon,10001478-15--Transforming the energy efficiency of gas compressors and expanders across the w.pdf,software
+CityUniversityLondon,10001478-10--FINEX_ A probabilistic expert system for forensic identification.pdf,software
+CityUniversityLondon,10001478-36--European Social Survey News Analysis (ESSi NA4) .pdf,software
+CityUniversityLondon,10001478-15--Improving the financial and environmental cost of steel framed buildings, whilst.pdf,software
+CityUniversityLondon,10001478-3--Improvements in the Detection and Management of Glaucoma.pdf,software
+CityUniversityLondon,10001478-11--Making the results returned by search engines more relevant.pdf,software
+CityUniversityLondon,10001478-11--Design diversity for safety and reliability in software-based systems.pdf,software
+CityUniversityLondon,10001478-19--Improved estimation of mortality and life expectancy for each constituent countr.pdf,software
+CityUniversityLondon,10001478-15--Design for reliability - shortening the time to market; improving working practi.pdf,software
+CityUniversityLondon,10001478-19--Preventing insolvency of non-life insurance firms by understanding and quantifyi.pdf,software
+CityUniversityLondon,10001478-11--Making sense of complex data through innovations in visualisation.pdf,software
+CityUniversityLondon,10001478-10--Strategic roster planning and control using Mixed Integer Linear Programming wit.pdf,software
+CityUniversityLondon,10001478-11--Reducing risk in critical computer-based systems by using assurance cases.pdf,software
+UniversityofLincoln,10007151-15--The aerodynamic design of the Type 26 Combat Ship for maritime helicopter operat.pdf,software
+UniversityofLincoln,10007151-4--The Blue Dog Project_ Preventing Dog Bites in Children.pdf,software
+UniversityofLincoln,10007151-11--User-trainable visual anomaly detection for quality inspection tasks in the food.pdf,software
+UniversityofLeeds,10007795-1--Case Study 8. Transforming the diagnosis and clinical management of autosomal re.pdf,software
+UniversityofLeeds,10007795-28--Case Study 1_ Innovative computational linguistic technologies for language serv.pdf,software
+UniversityofLeeds,10007795-17--Case 6 - Improving national surface water quality using an urban non-point pollu.pdf,software
+UniversityofLeeds,10007795-10--Case Study 6_ Cost-effective simulation and prediction of explosions for militar.pdf,software
+UniversityofLeeds,10007795-4--Case Study 5_ Improving screening, diagnosis and treatment of inherited blindnes.pdf,software
+UniversityofLeeds,10007795-14--Case Study 2_ Research showing the capability of in-vehicle intelligent speed ad.pdf,software
+UniversityofLeeds,10007795-28--Case Study 3_ The Benefits of the `Cologne Edition' of Heinrich B”ll for the com.pdf,software
+UniversityofLeeds,10007795-11--Scheduling research leads to optimised cost efficient public transport - the Tra.pdf,software
+UniversityofLeeds,10007795-3--Case study 5.  New systems for patient self-reporting improve care and quality o.pdf,software
+UniversityofLeeds,10007795-8--Knowledge-based genotoxicity prediction tools used universally in pharmaceutical.pdf,software
+UniversityofLeeds,10007795-4--Case Study 3_ A novel tool facilitating objective identification of children wit.pdf,software
+UniversityofLeeds,10007795-13--Techniques for precision high-frequency (RF to THz) characterization of electron.pdf,software
+UniversityofLeeds,10007795-17--Case 3 - Retail network research influences location decision-making and improve.pdf,software
+UniversityofLeeds,10007795-7--9. Predicting turbulence - improved weather forecasts and ś1.25 million annual s.pdf,software
+UniversityofLeeds,10007795-15--Global sales of tomographic instruments benefiting process industries.pdf,software
+UniversityofLeeds,10007795-7--5. Predicting the impact of faults on fluid flow in hydrocarbon reservoirs.pdf,software
+UniversityofLeeds,10007795-14--Case Study 4_ Novel optimisation significantly reduces costs, increases turnover.pdf,software
+UniversityofLeeds,10007795-11--Commercial software for modelling and visualising manufacturing variation in aut.pdf,software
+UniversityofLeeds,10007795-12--Flow modelling research leads to innovative and profitable products.pdf,software
+UniversityofLeeds,10007795-19--Using statistical analysis to support decision making by managers and coaches in.pdf,software
+UniversityofYork,10007167-4--PSY02 - Impact on policy and practice in the provision of cochlear implants to d.pdf,software
+UniversityofYork,10007167-35-A-MUS02 - The Morning Line.pdf,software
+UniversityofYork,10007167-5--BIO11 - Developing the rationale for landscape-scale conservation.pdf,software
+UniversityofYork,10007167-11--COM01 - Guaranteed Performance on Controller Area Network (CAN).pdf,software
+UniversityofYork,10007167-10--MAT04 - How far can mathematical models of war and combat be trusted_.pdf,software
+UniversityofYork,10007167-18--ECO04 - The ECuity Project_ providing quantitative evidence on socioeconomic ine.pdf,software
+UniversityofYork,10007167-10--MAT03 - Traffic control and traveller choice.pdf,software
+UniversityofYork,10007167-10--MAT01 - Mathematical methods to improve food safety and traceability.pdf,software
+UniversityofYork,10007167-11--COM04 The Goal Structuring Notation (GSN.pdf,software
+UniversityofYork,10007167-9--PHYS05 - Materials modelling using ab-initio electronic structure calculations.pdf,software
+UniversityofYork,10007167-11--COM02 Real-Time Operating Systems (RTA-OSEK & RTA-OS) - Confidential.pdf,software
+UniversityofYork,10007167-11--COM05 RapiTime_ Worst-Case Execution Time technology - Confidential.pdf,software
+GlasgowSchoolofArt,10002681-34--2. Virtual anatomy for innovative teaching and learning.pdf,software
+GlasgowSchoolofArt,10002681-34--6. Design research for healthcare service delivery improvement.pdf,software
+BuckinghamshireNewUniversity,10000975-19--Intermittent demand categorization and forecasting.pdf,software
+UniversityofGreenwich,10007146-13--Advanced Materials  Modelling for Earth and Space Application.pdf,software
+UniversityofGreenwich,10007146-13--Design for Manufacture and Reliability of Microsystems.pdf,software
+UniversityofGreenwich,10007146-11--Computer methods for assessing reliability of complex structures.pdf,software
+UniversityofGreenwich,10007146-10--Decomposition, defect correction, and related numerical methods.pdf,software
+UniversityofGreenwich,10007146-30--Broadcasting, Entertainment, Cinematograph & Theatre Union History Project.pdf,software
+UniversityofGreenwich,10007146-15--Fire Safety Engineering Group (FSEG) Fire and Evacuation Research.pdf,software
+UniversityofGreenwich,10007146-11--Computational modelling, simulation and visualisation research supporting fire s.pdf,software
+UniversityofGreenwich,10007146-12--Fire Safety Engineering Group (FSEG) evacuation research.pdf,software
+BangorUniversity,10007857-11--Minimally invasive procedural training for clinicians using virtual patients.pdf,software
+BangorUniversity,10007857-19--SME Research in a European Union Convergence Region.pdf,software
+UniversityofAberdeen,10007783-1--Early Detection of Diabetic Retinopathy.pdf,software
+UniversityofAberdeen,10007783-10--3) Foetal-Maternal Heart Rate Coordination.pdf,software
+UniversityofAberdeen,10007783-6--Reducing the climate impact of agriculture.pdf,software
+UniversityofAberdeen,10007783-10--1) Brainatics_ prediction, detection and monitoring of Epilepsy.pdf,software
+UniversityofAberdeen,10007783-29--3) 1641 Depositions.pdf,software
+UniversityofAberdeen,10007783-11--1) Data2Text.pdf,software
+UniversityofAberdeen,10007783-11--2) Public Understanding of Artificial Intelligence.pdf,software
+UniversityofAberdeen,10007783-15--3) GRANIT.pdf,software
+UniversityofAberdeen,10007783-8--2) International Standards for Portland-Limestone Cements.pdf,software
+UniversityofAberdeen,10007783-10--2) Software Framework towards improvements of diagnosis of Dementia.pdf,software
+UniversityofAberdeen,10007783-11--3) Enabling Semantic Reasoning for Linked Data.pdf,software
+UniversityofAberdeen,10007783-15--4) Internet Transport Protocols and Satellite Broadband.pdf,software
+RoyalAgriculturalUniversity,10005545-6--Nutrition, health and welfare of stabled horses.pdf,software
+UniversityofEastAnglia,10007789-10--The Violent Forces on Coastal Structures due to Storm Waves.pdf,software
+UniversityofEastAnglia,10007789-10--Improving Aircraft Safety in the Presence of Ice Build-up.pdf,software
+UniversityofEastAnglia,10007789-11--Avatars for Visual Communication.pdf,software
+UniversityofEastAnglia,10007789-11--Imsense Ltd_ The Pursuit of Perfect Photographs.pdf,software
+UniversityofEastAnglia,10007789-11--Improved Insurance Products for the Multinational Insurance Industry.pdf,software
+UniversityofEastAnglia,10007789-7--Catchment Management Policy and Practice.pdf,software
+UniversityofUlster,10007807-11--Modelling phases of care.pdf,software
+UniversityofUlster,10007807-35--Including Disabled Musicians Using Technology.pdf,software
+UniversityofUlster,10007807-19--Case 1 - Promoting innovation adoption in high-tech small firms (HTSFs).pdf,software
+UniversityofUlster,10007807-28-B-Embedding computer-assisted language learning (CALL) in Modern Foreign Languages.pdf,software
+UniversityofUlster,10007807-11--A new product for creating annotated data sets within smart environments.pdf,software
+UniversityofUlster,10007807-36--Supporting Digital Media and the Creative Industries .pdf,software
+UniversityofUlster,10007807-11--New software products for programming wireless sensor networks.pdf,software
+UniversityofUlster,10007807-7--The development of evidence based biodiversity policy and practice in Northern I.pdf,software
+KingstonUniversity,10003678-15--Industrial take-up of advanced manufacturing process for nanomaterials.pdf,software
+OxfordBrookesUniversity,10004930-15--Safer and more economical slender structures.pdf,software
+OxfordBrookesUniversity,10004930-19--Academia-Industry collaboration in Risk Management - a case in the hospitality s.pdf,software
+OxfordBrookesUniversity,10004930-16--DECoRuMr_ an innovative Geographic Information System based carbon reduction mod.pdf,software
+OxfordBrookesUniversity,10004930-15--Light-weighting of automotive and aerospace transport.pdf,software
+OxfordBrookesUniversity,10004930-5--Establishing a Systems Biology approach to drug discovery and therapy design_ Ph.pdf,software
+OxfordBrookesUniversity,10004930-11--Sony's Wonderbook_ theoretical mathematics contributes to enriching the gaming e.pdf,software
+OxfordBrookesUniversity,10004930-16--The Green Guide to Specification - An Environmental Legacy. Reducing the Environ.pdf,software
+OxfordBrookesUniversity,10004930-17--WildKnowledger enabled citizen science.pdf,software
+LeedsBeckettUniversity,10003861-11--Green IT.pdf,software
+LeedsBeckettUniversity,10003861-35--Game Audio Research and Curriculum impact.pdf,software
+LeedsBeckettUniversity,10003861-11--Improving the online promotion of UK contemporary art on Axisweb.org.pdf,software
+LeedsBeckettUniversity,10003861-35--Echochroma New Music Research Group.pdf,software
+BournemouthUniversity,10000824-4--Assessment and treatment of children and adults with face processing impairments.pdf,software
+BournemouthUniversity,10000824-19--Shaping intellectual property legislation through evidence-based research.pdf,software
+BournemouthUniversity,10000824-34--Improved Motion Blur in Computer Animated Film and Special Effects.pdf,software
+BournemouthUniversity,10000824-15--Green Tribology - The Sustainable Design of Lifeboat Launch Systems.pdf,software
+BournemouthUniversity,10000824-15--Enhancement of 'Upstream' Software Development Methods.pdf,software
+EdinburghNapierUniversity,10007772-19--The Power of Social Networks.pdf,software
+EdinburghNapierUniversity,10007772-13--Signal Analysis Solutions for the Medical Device Industry.pdf,software
+EdinburghNapierUniversity,10007772-11--Enabling greater citizen participation in governance_ e-petitioning.pdf,software
+UniversityofDerby,10007851-15--Improved Spatial Audio from Ambisonic Surround Sound Software.pdf,software
+UniversityofDerby,10007851-11--Knowledge Transfer of Innovative Cloud Computing Technologies.pdf,software
+UniversityofDerby,10007851-34--Architectural Surfaces.pdf,software
+UniversityofDerby,10007851-15--Engine Test Bed Experimental Data Modelling and Optimisation.pdf,software
+UniversityofDerby,10007851-11--Sustainable Cloud Computing.pdf,software
+BirbeckCollege,10007760-34--Computer Arts - establishing technoculture collections.pdf,software
+BirbeckCollege,10007760-11--Intelligent Constructionist Tools for Learning and Teaching.pdf,software
+BirbeckCollege,10007760-5--Antibody sequence and structure analysis assists biologic drug design.pdf,software
+BirbeckCollege,10007760-11--Research advances in Participatory Cyber-physical Computing resulting in innovat.pdf,github
+BirbeckCollege,10007760-18--Advances in Stochastic Modelling for Complex Option Pricing and Commodity Forwar.pdf,software
+BirbeckCollege,10007760-5--The DichroWeb Analysis Server and Protein Circular Dichroism Data Bank_ analysis.pdf,software
+BirbeckCollege,10007760-5--CATH structural classification of proteins aids drug discovery in the pharmaceut.pdf,software
+BirbeckCollege,10007760-11--Informatics support for the management and integration of large-scale life scien.pdf,software
+BirbeckCollege,10007760-18--Allowing for Model Uncertainty and Data Revisions in Central Banks' Forecasting .pdf,software
+BirbeckCollege,10007760-28--Andean textiles_ creating cultural imagery in a digital age and recovering tradi.pdf,software
+LondonSchoolofHygiene&TropicalMedicine,10007771-2--Supporting influenza pandemic preparedness.pdf,software
+UniversityofBolton,10006841-25--The Wookie Widget Server.pdf,software
+UniversityofBolton,10006841-25--Educational technology interoperability specifications .pdf,software
+UniversityofBolton,10006841-36--Strategic Regional Development through Knowledge Transfer .pdf,software
+UniversityofBolton,10006841-36--OMELETTE.pdf,software
+SRUC,10005700-6--1f. The development of genomic selection and application through optimal contrib.pdf,software
+UniversityofBirmingham,10006840-8--MOLPRO - A Quantum Chemistry Package.pdf,software
+UniversityofBirmingham,10006840-2--Atrial Fibrillation_ Developing anti-coagulation management and therapy for atri.pdf,software
+UniversityofBirmingham,10006840-3--Development of periodontal disease predictive technologies and their commerciali.pdf,software
+UniversityofBirmingham,10006840-12-B-Positron emission particle tracking (PEPT) enables a paradigm shift in process d.pdf,software
+UniversityofBirmingham,10006840-1--Improving the management of patients with atrial fibrillation.pdf,software
+UniversityofBirmingham,10006840-9--Engaging the public with Physics_ scientists for tomorrow's world.pdf,software
+UniversityofBirmingham,10006840-1--Enabling faster and more accurate treatment of Tuberculosis.pdf,software
+UniversityofBirmingham,10006840-13-A-Multiple Band Antennas for Mobile Phones.pdf,software
+UniversityofBirmingham,10006840-13-A-SubSafe - Games-Based Simulation to Improve Submarine Safety Training.pdf,software
+UniversityofBirmingham,10006840-35-A-SuperCollider Development and Dissemination.pdf,github
+UniversityofBirmingham,10006840-10--Commercialisation of Conic Optimization Routines in NAG Library .pdf,software
+UniversityofBirmingham,10006840-19--Modernising corporate tax filing and financial reporting to HM Revenue and Custo.pdf,software
+UniversityofBirmingham,10006840-10--Mathematical Foundations of Flow Assurance Issues in the Petroleum Industry  .pdf,software
+UniversityofBirmingham,10006840-13-A-Automotive Radar Systems.pdf,software
+UniversityofBirmingham,10006840-14--Improving Road Investment Appraisal .pdf,software
+UniversityofBirmingham,10006840-34--Birmingham Histories_ Engaging with the Public Sector.pdf,software
+UniversityofBirmingham,10006840-9--Positron emission particle tracking (PEPT) enables a paradigm shift in process d.pdf,software
+UniversityofWinchester,10003614-4--Cognitive performance under challenging circumstances.  .pdf,software
+UniversityofHertfordshire,10007147-9--First in situ measurements of ash spread from the 2010 Icelandic volcano eruptio.pdf,java
+UniversityofHertfordshire,10007147-6--Contributing to agricultural climate change mitigation.pdf,software
+UniversityofHertfordshire,10007147-6--Making a difference to agricultural environmental management.pdf,software
+UniversityofHertfordshire,10007147-35--Music Experience and Behaviour in Young People.pdf,software
+UniversityofHertfordshire,10007147-11--Digital and Accessible Information_ Accessibility for All.pdf,software
+UniversityofHertfordshire,10007147-11--SBML, the Systems Biology Markup Language.pdf,software
+UniversityofHertfordshire,10007147-35--Plenum_ Projecting music and science into the light.pdf,software
+UniversityofHertfordshire,10007147-11--Industrial applications of Automatic Differentiation and advanced methods in com.pdf,software
+Heriot-WattUniversity,10007764-16--7. Revitalising the cultural and retail environments through technology.pdf,software
+Heriot-WattUniversity,10007764-15--13 - Advanced Wavemaker Designs.pdf,software
+Heriot-WattUniversity,10007764-15--18 - Feature Recognition for Smart Design and Manufacture.pdf,software
+Heriot-WattUniversity,10007764-10--Bayesian statistical methods applied to the quantification of forensic evidence.pdf,software
+Heriot-WattUniversity,10007764-11--Heriot-Watt 3D texture capture system enable `virtual' production of 210 million.pdf,software
+Heriot-WattUniversity,10007764-16--4. Radically improving built assets through reduced CO2 emissions .pdf,software
+Heriot-WattUniversity,10007764-19--Enabling the econometric analysis of policy interventions.pdf,software
+Heriot-WattUniversity,10007764-15--20 - Smart Software for Autonmous Maritime Systems.pdf,software
+Heriot-WattUniversity,10007764-10--New thermostatic controls adopted by molecular dynamics software providers.pdf,software
+Heriot-WattUniversity,10007764-15--07 - Increasing Oil Recovery by Advanced Reservoir Management.pdf,software
+Heriot-WattUniversity,10007764-15--05 - Effective Design and Operation of Concrete Infrastructure.pdf,software
+Heriot-WattUniversity,10007764-19--Decarbonisation of freight transport.pdf,software
+Heriot-WattUniversity,10007764-15--08 - Assuring Hydrocarbon Flow with Improved Hydrate Management.pdf,software
+Heriot-WattUniversity,10007764-10--Stochastic models of longevity risk adopted by the pension industry.pdf,software
+Heriot-WattUniversity,10007764-11--Pioneering Web Portals for Health Information.pdf,software
+Heriot-WattUniversity,10007764-15--12 - Oilfield Mineral Scale Management.pdf,software
+Heriot-WattUniversity,10007764-11--Bringing Computer Science, Programming and Computational Thinking into the Class.pdf,software
+Heriot-WattUniversity,10007764-10--Uplift modelling for improved customer targeting.pdf,software
+Heriot-WattUniversity,10007764-10--Interior point methods adopted by leading optimization software.pdf,software
+Heriot-WattUniversity,10007764-11--Enhanced reservoir management in the oil_gas sector via new algorithms for large.pdf,software
+Heriot-WattUniversity,10007764-15--01 - Increasing the efficiency of Railway Track Maintenance through Ballast Rein.pdf,software
+Heriot-WattUniversity,10007764-10--Statistical models of mortality impact on the pricing and reserving of pensions.pdf,software
+Heriot-WattUniversity,10007764-16--3. Alleviating poverty in Sub-Saharan Africa through equitable, needs-based appr.pdf,software
+UniversityCollegeLondon,10007784-25-A-University fees and social mobility_ a difficult balancing act.pdf,software
+UniversityCollegeLondon,10007784-1--Elucidating the early determinants of chronic lung disease_ development of tools.pdf,software
+UniversityCollegeLondon,10007784-36--Facet analysis and its influence on the major systems of library classification.pdf,software
+UniversityCollegeLondon,10007784-25-A-Apprenticeship and work-related learning_ a tool for assessing quality.pdf,software
+UniversityCollegeLondon,10007784-8--Industrial application of computational models and experimental techniques for c.pdf,software
+UniversityCollegeLondon,10007784-17-B-The use of names to establish geo-genealogy and cultural, linguistic and ethnic .pdf,software
+UniversityCollegeLondon,10007784-20--Bringing Jeremy Bentham to a 21st century public.pdf,software
+UniversityCollegeLondon,10007784-10--Better clinical outcome monitoring and healthcare quality through the use of gra.pdf,software
+UniversityCollegeLondon,10007784-11--3D body scanning in clothing manufacturing and retail, and healthcare.pdf,software
+UniversityCollegeLondon,10007784-24--Promoting environmental justice and social sustainability in the Congo Basin.pdf,software
+UniversityCollegeLondon,10007784-11--Camino diffusion MRI toolkit_ microstructure imaging and connectivity mapping to.pdf,software
+UniversityCollegeLondon,10007784-12--Increased efficiency in turbomachinery design, manufacturing and performance usi.pdf,software
+UniversityCollegeLondon,10007784-4--Statistical parametric mapping.pdf,software
+UniversityCollegeLondon,10007784-5--CATH structural classification of proteins aids drug discovery in the pharmaceut.pdf,software
+UniversityCollegeLondon,10007784-5--The DichroWeb Analysis Server and Protein Circular Dichroism Data Bank_ analysis.pdf,software
+UniversityCollegeLondon,10007784-29--Creating educational and commercial access to English language resources_ using .pdf,software
+UniversityCollegeLondon,10007784-11--Enhanced photo and special effects processing for professional and amateur photo.pdf,software
+UniversityCollegeLondon,10007784-5--Antibody sequence and structure analysis assists biologic drug design.pdf,software
+UniversityCollegeLondon,10007784-16--Space Syntax_ improving national and international urban environments.pdf,software
+UniversityCollegeLondon,10007784-14--Participatory GIS in action_ new social enterprise Mapping for Change.pdf,software
+UniversityCollegeLondon,10007784-11--Improving prostate cancer diagnosis and care using computer simulation and medic.pdf,software
+UniversityCollegeLondon,10007784-13--Adoption of Senceive's innovative remote condition monitoring solutions in the r.pdf,software
+UniversityCollegeLondon,10007784-15--Application of magnetic nanoparticles in the treatment of breast cancer.pdf,software
+UniversityCollegeLondon,10007784-11--SIP_SDP as an enabler of real-time internet communication.pdf,software
+UniversityCollegeLondon,10007784-9--Stimulating public engagement with physics through the LHC and discovery of the .pdf,software
+UniversityCollegeLondon,10007784-9--Enabling space companies to deliver contracts and supporting growth of the space.pdf,software
+UniversityCollegeLondon,10007784-16--Interactive architectural innovation in practice, products and business formatio.pdf,software
+UniversityCollegeLondon,10007784-17-A-Voicebox_ Research on the physics and evolution of speech facilitating science t.pdf,software
+UniversityCollegeLondon,10007784-8--Abraham solvation parameter approach benefiting the chemical industries.pdf,software
+UniversityCollegeLondon,10007784-10--Synthetic weather sequences informing engineering design and supporting decision.pdf,software
+UniversityCollegeLondon,10007784-25-A-Making Games_ empowering pupils to design their own digital games .pdf,software
+UniversityCollegeLondon,10007784-11--xlinkit for fast, cheap, reliable banking with automated verification of over-th.pdf,software
+UniversityCollegeLondon,10007784-8--Impact on UK Government funding and decisions relating to the improvement of UK .pdf,software
+UniversityCollegeLondon,10007784-11--A clinical management service for stroke prevention.pdf,software
+UniversityCollegeLondon,10007784-16--Energy-economic modelling of long term decarbonisation pathways_ The policy impa.pdf,software
+UniversityCollegeLondon,10007784-25-A-`Sexting' and the school curriculum_ research for gender equality in the digital.pdf,software
+UniversityCollegeLondon,10007784-1--The Moorfields Regression Analysis improves the management of glaucoma.pdf,software
+UniversityCollegeLondon,10007784-11--Human-centred security in government and commercial applications.pdf,software
+UniversityCollegeLondon,10007784-22--Improving police practice and reducing the incidence of crime through mapping an.pdf,software
+UniversityCollegeLondon,10007784-1--Improved surgical outcomes achieved through perioperative circulatory optimisati.pdf,software
+UniversityofGlasgow,10007794-8--A unique computer technology for the accelerated discovery of drugs that _shape-.pdf,software
+UniversityofGlasgow,10007794-4--Playing with perception using optical illusions from hybrid image technology.pdf,software
+UniversityofGlasgow,10007794-11--Shaping Policy, Legislation and Regulation in European Air Traffic Management.pdf,software
+UniversityofGlasgow,10007794-15--Three spin-out companies built on platform Lab-on-a-chip technologies deliver di.pdf,software
+UniversityofGlasgow,10007794-15--Rehabilitation engineering innovations improve quality of life for patients with.pdf,software
+UniversityofGlasgow,10007794-11--Kelvin Connect - a highly successful spin-out providing advanced mobile data cap.pdf,software
+UniversityofGlasgow,10007794-9--LightTouch_ Low-cost, rapid oil and gas prospecting technology.pdf,software
+UniversityofGlasgow,10007794-15--From refrigerators to power tools_ millions of electric machines produced with d.pdf,software
+UniversityofGlasgow,10007794-9--DualEELST_ A key advance in electron spectroscopy in the electron microscope.pdf,software
+UniversityofGlasgow,10007794-11--Developing algorithms to optimise paired kidney donation in the UK.pdf,software
+UniversityofGlasgow,10007794-5--Development of life-saving control strategies to eliminate rabies in Bali.pdf,software
+UniversityofGlasgow,10007794-10--Development of an innovative data analysis tool to monitor groundwater pollution.pdf,software
+UniversityofGlasgow,10007794-15--Unique simulation software tools for the global semiconductor industry.pdf,software
+UniversityofGlasgow,10007794-1--Advancing heart disease diagnosis - influencing international guidelines and com.pdf,software
+UniversityofGlasgow,10007794-8--PolySNAP Computer Software for enhanced processing and classifying of crystallog.pdf,software
+UniversityofGlasgow,10007794-5--Introducing a new strategic framework for assessing the impact of marine renewab.pdf,software
+UniversityofGlasgow,10007794-10--Mathematical models for design and stress analysis in the rubber and automotive .pdf,software
+UniversityofGlasgow,10007794-11--Transforming computing science education to confront global industry skills gap.pdf,software
+UniversityoftheHighlandsandIslands,10007114-7--The CSTT model underpinning the UK defence in European Court of Justice.pdf,software
+UniversityoftheHighlandsandIslands,10007114-7--DEPOMOD & AutoDEPOMOD_ Models changing aquaculture planning practices in Scotlan.pdf,software
+UniversityofWarwick,10007163-19--SimLean_ Using Rapid Simulation Techniques to Facilitate Improvement in Healthca.pdf,software
+UniversityofWarwick,10007163-15--European codes of practice for civil engineering structures .pdf,software
+UniversityofWarwick,10007163-10--Impact of novel methodology for election exit-poll design and analysis at the 20.pdf,software
+UniversityofWarwick,10007163-19--Improving Access to Finance for UK SMEs.pdf,software
+UniversityofWarwick,10007163-10--Mathematical modelling of livestock infection to inform policy for future epidem.pdf,software
+UniversityofWarwick,10007163-10--Mathematics in Digital Art.pdf,software
+UniversityofWarwick,10007163-10--Quality assessment for high-throughput genomic data in research and clinical pra.pdf,software
+UniversityofBradford,10007785-14--Sustainable strategies for noise mitigation through improved assessment of noise.pdf,software
+UniversityofBradford,10007785-12--Expertise in automotive braking systems helps vehicle and brake manufacturers to.pdf,software
+CoventryUniversity,10001726-15--Improving passive safety in crashes.pdf,software
+CoventryUniversity,10001726-4--Changing Attitudes to Children's Text Messaging and Literacy .pdf,software
+CoventryUniversity,10001726-34--Integrating human factors into health design.pdf,software
+CoventryUniversity,10001726-19--Industrial and Regional Policy for Restructuring.pdf,software
+AstonUniversity,10007759-11--Impact of Machine-Learning based Visual Analytics.pdf,software
+AstonUniversity,10007759-11--Improving the Management of Uncertainty on the Web_ UncertML.pdf,software
+AstonUniversity,10007759-15--Advanced fluid flow modelling improves the efficiency of industrial burners.pdf,software
+AstonUniversity,10007759-11--The GRiST computer decision support system_ a new tool for assessing and managin.pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-16--Improved Performance in the Construction Supply Chain.pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-15--Better and faster guarantees of respondent privacy when releasing public statist.pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-11--More efficient and effective requirements engineering in the aerospace industry .pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-3--1 Accelerating the development of new chemotherapy drugs using bioluminescent ba.pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-36--Informing UK Film Policy in the Digital Age; Preserving Cinema Memories in the M.pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-15--Automatic measurement of difficult solid objects in unstructured and challenging.pdf,software
+UniversityoftheWestofEngland,Bristol,10007164-11--Facilitating System Evolution during Design and Implementation_ CRISTAL.pdf,software
+NewmanUniversity,10007832-26--Judging and performance in the sport of Muay Thai.pdf,software
+WrittleCollege,10007657-34--Scenes of Provincial Life.pdf,software
+WrittleCollege,10007657-34--Furtherfield_ international platforms for collaborative practice in networked me.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-28--'The Italian Acadmies' (Professor Jane Everson).pdf,software
+RoyalHolloway,UniversityofLondon,10005553-11--Cryptographic Analysis and Improvement of Transport Layer Security (TLS).pdf,software
+RoyalHolloway,UniversityofLondon,10005553-7--Numerical Modelling of Turbidity Currents.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-7--Development of a custom-designed laser-ablation system for high-resolution chemi.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-4--Vision Science and Road Safety.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-21--Political Communication in the New Media Ecology.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-36--Broadcast Television Archives_ Access and Contextualisation.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-11--VC Learning Theory and Support Vector Machines.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-9--Faster CCTV video content analysis.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-7--Hydrocarbon reservoirs _ physical models and natural analogues.pdf,software
+RoyalHolloway,UniversityofLondon,10005553-9--Engaging the public with current research in Particle Physics.pdf,software
+NottinghamTrentUniversity,10004797-29--Establishing the Gay Canon.pdf,software
+NottinghamTrentUniversity,10004797-11--Wireless and mobile computing for sustainable urban mobility and social inclusio.pdf,software
+NottinghamTrentUniversity,10004797-11--Using interaction technologies to help people tackle the effects of stroke and o.pdf,software
+UniversityofCumbria,10007842-3--Improving understanding of medical image perception and enhancing interpretation.pdf,software
+AberystwythUniversity,10007856-11--The Robot Scientist.pdf,software
+AberystwythUniversity,10007856-11--Planetary Exploration Based Camera Technology for Precision Agriculture Applicat.pdf,software
+AberystwythUniversity,10007856-11--Automated Design Analysis and Generation of Diagnostics.pdf,software
+AberystwythUniversity,10007856-36--Ensuring Professionalism_ knowledge, competencies and skills for the global info.pdf,software
+AberystwythUniversity,10007856-28-A-Anglo-Norman Dictionary Case-study.pdf,software
+AberystwythUniversity,10007856-17--Development and provision of resources to improve professional practice in satel.pdf,software
+UniversityofGloucestershire,10007145-33--New Testament Studies.pdf,software
+UniversityofSouthWales,10007793-10--Developing frequency assignment techniques for British military communication sy.pdf,software
+UniversityofSouthWales,10007793-10--Using genomics to shape high performance computing.pdf,software
+UniversityofSunderland,10007159-11--Development of Smart Planning Tools for BT and Network Optimisation .pdf,software
+UniversityofSunderland,10007159-26--Integrated e-Services for Advanced Access to Heritage in Cultural Tourist Destin.pdf,software
+UniversityofSunderland,10007159-22--`Highlighting multiple forms of social exclusion_ using research to inform polic.pdf,software
+UniversityofSunderland,10007159-34--New Media Art_ Impacts on Art Collecting Policies.pdf,software
+UniversityofSunderland,10007159-12--Advanced Maintenance Strategy and Tools .pdf,software
+UniversityofSunderland,10007159-3--Commercialisation of analytical technologies_ rapid and specific quantification .pdf,software
+UniversityofSunderland,10007159-11--Sunderland Software City_ Developing the Software Sector in the North East.pdf,software
+UniversityofSunderland,10007159-35--Sound and Music Therapies.pdf,software
+UniversityofSunderland,10007159-12--New Technologies for Electric Vehicles.pdf,software
+UniversityofSunderland,10007159-34--Curating New Media Art_ Curatorial Practice and Creative Industries.pdf,software
+BirminghamCityUniversity,10007140-29--Academic, educational and commercial benefits of effective textual search and an.pdf,software
+BirminghamCityUniversity,10007140-11--Vehicle Crash Test Analysis Systems.pdf,software
+BirminghamCityUniversity,10007140-35--Integra - Fusing music and technology.pdf,software
+BirminghamCityUniversity,10007140-35--The Conservatoire Collection_  A Software Library of Digitized Historical Instru.pdf,software
+BirminghamCityUniversity,10007140-22--The role of the Arts in Criminal Justice.pdf,java
+BirminghamCityUniversity,10007140-11--Integrating Domain Based Engineering Knowledge in Computational Models to Enhanc.pdf,software
+BirminghamCityUniversity,10007140-34--Craft informed 3D printing and digital reconstruction of precious objects changi.pdf,software
+RoyalCollegeofArt,10007777-34--Enhancing industrial capability to innovate in vehicle design, for commercial, s.pdf,software
+UniversityofSheffield,10007157-17-B-Understanding social and spatial inequalities.pdf,software
+UniversityofSheffield,10007157-10--Managing uncertainty in computer models_ aircraft engine design and food safety .pdf,software
+UniversityofSheffield,10007157-10--Improving Radiocarbon Calibration.pdf,software
+UniversityofSheffield,10007157-36--More cost-effective drug discovery using virtual screening.pdf,software
+UniversityofSheffield,10007157-18--The SF-6D_ A new, internationally adopted measure for assessing the cost-effecti.pdf,software
+UniversityofSheffield,10007157-17-B-More reliable, accurate and cost effective instruments to monitor volcanic activ.pdf,software
+UniversityofSheffield,10007157-28-A-Heritage preservation and international exhibitions of medieval manuscripts, rea.pdf,software
+UniversityofSheffield,10007157-15--A new design methodology for civil aero-engine control.pdf,software
+UniversityofSheffield,10007157-11--OAK_ Harnessing the power of information for situation awareness and organisatio.pdf,software
+UniversityofSheffield,10007157-14--Rapid analysis and design software for engineers.pdf,software
+UniversityofSheffield,10007157-3-A-Improved treatment of post-stroke speech disorders with self-administered comput.pdf,software
+UniversityofSheffield,10007157-1--Commercial and health impacts of drug modelling tools.pdf,software
+UniversityofSheffield,10007157-12-A-New vibration damping technology which extends the life of aircraft engine compo.pdf,software
+UniversityofSheffield,10007157-12-A-New computational aerodynamics design tools for the aerospace industry.pdf,software
+UniversityofSheffield,10007157-11--GATE_ General Architecture for Text Engineering.pdf,software
+UniversityofSheffield,10007157-36--Embedding information behaviour in information systems development.pdf,software
+UniversityofSheffield,10007157-1--FRAX, an international tool for the assessment of fracture risk.pdf,software
+UniversityofSheffield,10007157-11--ASR_ Commercial, societal and cultural benefits of new advanced Speech Recogniti.pdf,software
+UniversityofSheffield,10007157-2--A new measure for assessing the cost-effectiveness of health care interventions_.pdf,software
+UniversityofSheffield,10007157-19--Economic and environmental improvements in organisations through low carbon supp.pdf,software
+UniversityofSheffield,10007157-14--Managing full scale dynamic performance of civil infrastructure.pdf,software
+UniversityofSheffield,10007157-14--Management of discolouration in drinking water distribution systems.pdf,software
+UniversityofSheffield,10007157-33--Changing Perceptions of King James' Bible.pdf,software
+UniversityofSheffield,10007157-14--Changing policy and practice for contaminated land and groundwater.pdf,software
+UniversityofSheffield,10007157-15--The impact of the Sheffield Alcohol Policy Model on alcohol policy.pdf,software
+YorkStJohnUniversity,10007713-4--Cyberbullying and E-Safety in Children and Young People_ the impact of research .pdf,software
+YorkStJohnUniversity,10007713-36--Cultural Heritage, Tourism and Engagement.pdf,software
+MiddlesexUniversity,10004351-11--Applied Ethics - embedding ethics in the design of technology projects.pdf,software
+MiddlesexUniversity,10004351-11--Complex User Interfaces_ Design of Products and Services.pdf,software
+MiddlesexUniversity,10004351-3--Biomedical Imaging.pdf,software
+MiddlesexUniversity,10004351-11--Algorithms for Bio-imaging.pdf,software
+MiddlesexUniversity,10004351-11--Model Checking Multi-Agent Systems.pdf,software
+MiddlesexUniversity,10004351-11--Visual Analytics.pdf,software
+SouthamptonSolentUniversity,10006022-15--Project HORIZON_ Seafarer fatigue and its effect on cognitive performance.pdf,software
+DeMontfortUniversity,10001883-15--The Feature Selective Validation (FSV) method.pdf,software
+DeMontfortUniversity,10001883-16--Advanced building simulation tools.pdf,software
+DeMontfortUniversity,10001883-11--Using Research to Change Policy.pdf,software
+DeMontfortUniversity,10001883-29--Editing Literary-Historical Manuscripts.pdf,software
+DeMontfortUniversity,10001883-15--Saving Water through Optimal Energy and Leakage Management in Water Distribution.pdf,software
+DeMontfortUniversity,10001883-35--The Development of Online Resources for Instrumental and Electroacoustic Musicia.pdf,software
+DeMontfortUniversity,10001883-16--The Wattbox heating controller.pdf,software
+DeMontfortUniversity,10001883-11--Core Underpinning of Fuzzy Logic .pdf,software
+SwanseaUniversity,10007855-15--The economic benefits of finite element_discrete element analysis when applied t.pdf,software
+SwanseaUniversity,10007855-9--Antimatter_ From CERN to Hollywood.pdf,software
+SwanseaUniversity,10007855-10--Benefits to the business and medical sectors through application of geometric co.pdf,software
+SwanseaUniversity,10007855-11--Safer Human-Computer Interaction for Healthcare.pdf,software
+SwanseaUniversity,10007855-15--Improved aerodynamic design process for the aerospace industry through applicati.pdf,software
+SwanseaUniversity,10007855-3-A-Developing and implementing national standards to improve the structure and cont.pdf,software
+SwanseaUniversity,10007855-10--Techniques for Improved Electromagnetic Design in the Aerospace Industry.pdf,software
+SwanseaUniversity,10007855-11--Improving Processes and Policies in the UK Railway Industry.pdf,software
+SwanseaUniversity,10007855-11--Empowering rural digital communities in the developing world and the UK.pdf,software
+SwanseaUniversity,10007855-9--A benchmark tool for high performance computing.pdf,software
+SwanseaUniversity,10007855-19--Promoting positive employment relations in the civil aviation industry.pdf,software
+SwanseaUniversity,10007855-15--Advanced simulation technology to optimise the recovery of high value metals thr.pdf,software
+UniversityofSussex,10007806-9--Using fundamental physics to improve physics teaching and up-take at A-levels an.pdf,software
+UniversityofSussex,10007806-19--Revealing `Hidden Innovation' to policy-makers led to changes in the UK governme.pdf,software
+UniversityofSussex,10007806-27--Trade Policy Capacity Building - TradeSift.pdf,software
+UniversityofSussex,10007806-15--The use of research on imaging to predict survival rates and optimise treatment .pdf,software
+UniversityofSussex,10007806-11--Automatic grammatical analysis enabling advanced text processing in commercial a.pdf,software
+UniversityofSussex,10007806-9--Research on fundamental physics inspires, entertains and stimulates the public.pdf,software
+UniversityofSussex,10007806-25--International development organisations take up strategies for universalising ac.pdf,software
+UniversityofSussex,10007806-23--`Like Shadows_ A Celebration of Shyness'_ Influence on creative practices and vi.pdf,software
+UniversityofSussex,10007806-18--Estimating the `social cost of carbon' to reduce US emissions and improve energy.pdf,software
+UniversityofDundee,10007852-5--The creation of the Open Microscopy Environment (OME) and impact of life science.pdf,software
+UniversityofDundee,10007852-17--Bridging the gap between policy and regulation_ new assessment tools for impleme.pdf,software
+UniversityofDundee,10007852-11--Augmentative and Alternate Communication (AAC).pdf,software
+UniversityofDundee,10007852-10--The Development of Commercial Optimization Software.pdf,software
+UniversityofDundee,10007852-14--Complex Transportation Tunnel Systems.pdf,software
+UniversityofDundee,10007852-34--Making the Digital Economy Physical.pdf,software
+UniversityofDundee,10007852-34--Underwater 3D Visualisation.pdf,software
+UniversityofDundee,10007852-3--Improving patient care experience and staff well-being_ The application of novel.pdf,software
+UniversityofDundee,10007852-19--Embedding Employability Skills in Accounting Education.pdf,software
+UniversityofDundee,10007852-34--Craniofacial Depiction for Forensic Identification and Archaeological Investigat.pdf,software
+QueenMaryUniversityofLondon,10007775-2--Implementation of QRisk tool for cardiovascular risk management.pdf,software
+QueenMaryUniversityofLondon,10007775-10--Economical Experiments for the Fuel Efficiency Industry.pdf,software
+QueenMaryUniversityofLondon,10007775-3--The London atlas of dental development and eruption.pdf,software
+QueenMaryUniversityofLondon,10007775-11--Automatic memory safety verification for critical software.pdf,software
+QueenMaryUniversityofLondon,10007775-9--Let there be light_ Commercial and cultural impact from optical spectroscopy.pdf,software
+QueenMaryUniversityofLondon,10007775-17--Assessment, restoration and management of urban rivers.pdf,software
+QueenMaryUniversityofLondon,10007775-10--Spectral theory to improve the accuracy of vibrational energy predictions in com.pdf,software
+QueenMaryUniversityofLondon,10007775-15--Fracture modelling saves money, increases productivity and makes mining safer.pdf,software
+UniversityofBristol,10007786-17-A-Flood risk management is strengthened across the world as a result of inundation.pdf,software
+UniversityofBristol,10007786-15--Structural mechanics - enabling weight reduction and performance enhancement of .pdf,software
+UniversityofBristol,10007786-10--Bristol's research into multiscale methods enables more realistic modelling of r.pdf,software
+UniversityofBristol,10007786-9--Innovative products for microscopy and analysis provide economic and healthcare .pdf,software
+UniversityofBristol,10007786-35-A-Performing the Archive_ Bristol research projects make live art and performance .pdf,software
+UniversityofBristol,10007786-7--Reservoirs Under Stress_ Improved productivity through geomechanics and microsei.pdf,software
+UniversityofBristol,10007786-10--Bristol research helps reduce the threat to people and property from snow avalan.pdf,software
+UniversityofBristol,10007786-9--Bristol research helps extend life of nuclear power stations, with major financi.pdf,software
+UniversityofBristol,10007786-8--CH3_ danceroom Spectroscopy_ International Cultural Impact and Public Engagement.pdf,software
+UniversityofBristol,10007786-15--MoSSaiC - reducing the risk of landslides in developing countries through the ma.pdf,software
+UniversityofBristol,10007786-25--Bristol research leads to better ways of evaluating schools and promoting learni.pdf,software
+UniversityofBristol,10007786-10--Bristol's research in dynamical systems methods are adopted and made operational.pdf,software
+UniversityofBristol,10007786-10--The use of multilevel statistical modelling has led to improved evidence-based p.pdf,software
+UniversityofBristol,10007786-5--UK and Ireland benefit from improved assessment of water quality in rivers and l.pdf,software
+UniversityofBristol,10007786-17-A-Reducing landslide risk in urban areas in developing countries_ Management of Sl.pdf,software
+UniversityofBristol,10007786-10--Using the data to choose the best model for a statistical analysis, using Revers.pdf,software
+UniversityofBristol,10007786-15--Wireless LAN - pioneering research underpins standards and improves wireless vid.pdf,software
+UniversityofBristol,10007786-28--Animation and Restoration_ Developing early animation techniques into new techno.pdf,software
+UniversityofBristol,10007786-2--Patients, organisations providing clinical guidelines, and commercial companies .pdf,software
+UniversityofBristol,10007786-9--Infinitesima - pioneering atomic force microscopy applications for industry.pdf,software
+GlasgowCaledonianUniversity,10007762-15--Condition monitoring of power cables and motors to prevent power plant failures .pdf,software
+GlasgowCaledonianUniversity,10007762-11--Technology to Optimise Movement for Health and Wellbeing.pdf,software
+GlasgowCaledonianUniversity,10007762-3--Biopta_ Delivering Drug Testing in Human Tissues to Big Pharma.pdf,software
+GlasgowCaledonianUniversity,10007762-16--Setting the agenda for traditional building refurbishment.pdf,software
+GlasgowCaledonianUniversity,10007762-3--Made for you, Today, Precisely_ 3D Printing for Custom Foot Orthoses.pdf,software
+GlasgowCaledonianUniversity,10007762-15--Improving Asset Management of High Voltage Equipment.pdf,software
+GlasgowCaledonianUniversity,10007762-11--User Authentication Methodologies for Secure and Competitive Business.pdf,software
+CranfieldUniversity,10007822-12--Aircraft anti-icing_ improved design and certification.pdf,software
+CranfieldUniversity,10007822-12--Controlling uncertainty with cost engineering tools.pdf,software
+CranfieldUniversity,10007822-12--Increased capability in missile seeker and countermeasure analysis.pdf,software
+UniversityofNorthampton,10007138-34--Design and Knowledge Transfer Partnership collaborations .pdf,software
+UniversityofNorthampton,10007138-34--Uses of Drawing.pdf,software
+LiverpoolHopeUniversity,10003956-17--Transforming spatialities, cartographies and navigation_ attitudes towards and e.pdf,software
+LiverpoolHopeUniversity,10003956-11--MAGIC2VIP_ Making Accessible Graphic Information Context to Visually Impaired Pe.pdf,software
+LiverpoolHopeUniversity,10003956-35-A-Visual Sound-Shapes - a new compositional methodology for creating and understan.pdf,software
+LiverpoolHopeUniversity,10003956-11--Segmentation and Watermarking of Peripheral Blood Smear Images.pdf,software
+UniversityofWolverhampton,10007166-36--Improving online market research, customer relations management, public reaction.pdf,software
+UniversityofWolverhampton,10007166-36--Influencing Research Policy Through Policy Relevant Impact Indicators Derived fr.pdf,software
+UniversityofWolverhampton,10007166-12--Direct Metal Laser Sintering and Melting (DMLS_M) for producing complex geometri.pdf,software
+UniversityofWolverhampton,10007166-28--Case 1_ Post-editing effort indicators for estimation of translation quality and.pdf,software
+UniversityofWolverhampton,10007166-16--Improving Workplaces Practices in ICT Exploitation and Health and Safety and Tim.pdf,software
+UniversityofDurham,10007143-15--Interactive stress analysis of mechanical and aerospace components.pdf,software
+UniversityofDurham,10007143-31--Open Access to Ancient Greek and Latin through Diogenes .pdf,software
+UniversityofDurham,10007143-35--New encounters with the human voice through a 'digital opera'.pdf,software
+UniversityofDurham,10007143-9--An X-ray tool for the prediction of catastrophic failure during semiconductor ma.pdf,software
+UniversityofDurham,10007143-11--Stereoscopic Imaging.pdf,software
+UniversityofDurham,10007143-7--Safe Fracking_ Understanding Environmental Risk and Influencing Government Polic.pdf,java
+UniversityofDurham,10007143-8--4 Structural Science - Equipment and Software for Industry.pdf,software
+UniversityofDurham,10007143-17-B-River flooding and diffuse pollution.pdf,software
+UniversityofDurham,10007143-9--Commercialisation of materials modelling software (Castep).pdf,software
+UniversityofDurham,10007143-9--Unique materials signature identified from nanotechnology research leads to spin.pdf,software
+UniversityofDurham,10007143-9--Characterising a unique pressure sensitive material for use in mobile phones_ Pe.pdf,software
+UniversityofDurham,10007143-11--From Formal Methods to Software Migration.pdf,software
+UniversityofDurham,10007143-17-B-Remote-sensing tools for rapid and cost-effective forest management.pdf,software
+UniversityofDurham,10007143-7--Commercialisation of Research into High Pressure Geological Reservoirs.pdf,software
+UniversityofDurham,10007143-10--History matching and uncertainty assessment in the oil and gas industry.pdf,software
+UniversityofDurham,10007143-19--North East Economic Model (NEEM).pdf,software
+UniversityofDurham,10007143-10--Statistical Modelling For Digital Marketing.pdf,software
+UniversityofDurham,10007143-19--The Enterprise Approach_ Reshaping Entrepreneurial Education.pdf,software
+UniversityofDurham,10007143-10--Industrial impact of Bayes linear analysis.pdf,software
+UniversityofDurham,10007143-32--1 The Influence of Formal Ontology on Information Systems.pdf,software
+UniversityofEastLondon,10007144-11--Using secure software systems engineering to improve business processes and info.pdf,software
+UniversityofEastLondon,10007144-15--Enhanced Performance of Permanent Magnet Synchronous Motors, Reduced Manufacturi.pdf,software
+UniversityofEastLondon,10007144-15--Correcting and Analysing Seismic Data.pdf,software
+UniversityofEastLondon,10007144-11--Improving mobile service engineering in the Italian Telecommunication Industry.pdf,software
+LondonSchoolofEconomicsandPoliticalScience,10004063-24-A-Institutional capacity building in the former Soviet Union_ the revival of anthr.pdf,java
+LondonSchoolofEconomicsandPoliticalScience,10004063-22--Child protection_ improving practice.pdf,software
+LondonSchoolofEconomicsandPoliticalScience,10004063-10--Better risk management through improved weather forecasting.pdf,software
+LondonSchoolofEconomicsandPoliticalScience,10004063-36--Empowering children online through literacy and safety initiatives.pdf,software
+GlyndwrUniversity,10007833-11--Software Integration and Visualisation for Complex Electrical Motor Design Progr.pdf,software
+UniversityofSurrey,10007160-11--Introducing a secure electronic voting system to the State of Victoria, Australi.pdf,software
+UniversityofSurrey,10007160-10--Exploiting nonlinearity in operational data assimilation for weather prediction.pdf,software
+UniversityofSurrey,10007160-13--Secure GSM_3G Voice and Data Communication - Spin Out MulSys.pdf,software
+UniversityofSurrey,10007160-13--Computer Vision for Stereo 3D Film Production.pdf,software
+UniversityofSurrey,10007160-15--Changing industrial practice through lifecycle modelling .pdf,software
+UniversityofSurrey,10007160-13--From Satellite Control to Film and Computer Animation -  Spin Out Ikinema.pdf,software
+UniversityofSurrey,10007160-13--Automated Personal Identity Recognition Using Face Detection_ Spin Out OmniPerce.pdf,software
+UniversityofSurrey,10007160-19--Cluster Mapping; improving business intelligence in Health Care.pdf,software
+UniversityofSurrey,10007160-35--Digital dance research_ movement studies, interactive analysis and digital visua.pdf,software
+UniversityofSurrey,10007160-11--Adaptive Information Systems.pdf,software
+UniversityofSurrey,10007160-29--Creating infrastructure for linguistic theory and endangered languages .pdf,software
+UniversityofAbertayDundee,10007849-15--Interactive Visualisation of Sustainability Indicators for Urban Planning.pdf,software
+UniversityofAbertayDundee,10007849-7--Sustainable Urban Drainage Systems (SUDS).pdf,software
+UniversityofKent,10007150-24--Designing Protected Areas .pdf,software
+UniversityofKent,10007150-11--PERMIS - A modular authorisation infrastructure.pdf,software
+UniversityofKent,10007150-26--Enhancing Training and Performance in Elite Cycling.pdf,software
+UniversityofKent,10007150-11--Communicating Process Architectures_ the Future for Systems.pdf,github
+UniversityofKent,10007150-15--Biometrics_ Supporting technology, policy and professional developments.pdf,software
+UniversityofKent,10007150-10--Bayesian calibration and verification of vibratory measuring devices.pdf,software
+UniversityofKent,10007150-11--Greenfoot_ Transforming the way programming is taught.pdf,software
+UniversityofKent,10007150-5--Biopharmaceutical characterisation, production and development.pdf,software
+UniversityofKent,10007150-31--The Development of Cultural Value in the Practice of Heritage Management in Gree.pdf,software
+UniversityofKent,10007150-10--New statistical tools for ecologists.pdf,software
+UniversityofKent,10007150-15--Combustion instrumentation for power plant optimisation.pdf,software
+UniversityofKent,10007150-30--The Clergy of the Church of England Database 1540-1835.pdf,software
+UniversityofKent,10007150-9--Transformational Biomedical Diagnostics with Optical Coherence Tomography .pdf,software
+UniversityofKent,10007150-11--Improved Functional Programming Practice through Refactoring.pdf,github
+UniversityofKent,10007150-9--EFIT-V Facial Recognition Software .pdf,software
+Queen'sUniversityBelfast,10005343-11--Applications of Novel Speech and Audio-Visual Processing Research.pdf,software
+Queen'sUniversityBelfast,10005343-28--Cultural Identity in a Global Brand_ Ibarra Real and Microsoft.pdf,software
+Queen'sUniversityBelfast,10005343-17--Moving or not moving_ Spatial mobility in the Northern Ireland labour market.pdf,software
+Queen'sUniversityBelfast,10005343-12--New Method for Die Casting of Automotive Components Saves Energy and Material.pdf,software
+Queen'sUniversityBelfast,10005343-9--Development of High Performance Cameras for Imaging Applications with ANDOR tech.pdf,software
+Queen'sUniversityBelfast,10005343-4--Connecting Emotionally With and Through Computers.pdf,software
+Queen'sUniversityBelfast,10005343-12--New Bottle Manufacturing Technology leads to Energy and Material Savings.pdf,software
+Queen'sUniversityBelfast,10005343-19--Bayesian design improves non-market valuation surveys.pdf,software
+Queen'sUniversityBelfast,10005343-11--The commercial impact of scheduling and optimisation on university space plannin.pdf,software
+Queen'sUniversityBelfast,10005343-1--Successful Commercial Exploitation of Digital Pathology for Cancer Education, Bi.pdf,software
+Queen'sUniversityBelfast,10005343-13--Control technologies for advanced energy efficiency and environmental emission r.pdf,software
+Queen'sUniversityBelfast,10005343-9--Impact of the HELIUM Code on UK Government Procurement and Provision of National.pdf,software
+Queen'sUniversityBelfast,10005343-12--QUB plays Pivotal Role in Rotomoulding Global Success Stories.pdf,software
+UniversityofPlymouth,10007801-3--Dose banding in Chemotherapy_ improving patient care and efficiency of services.pdf,software
+UniversityofPlymouth,10007801-34--Operating Systems_ Harvesting Data.pdf,software
+UniversityofPlymouth,10007801-10--Bayesian methods for large scale small area estimation (SAE).pdf,software
+UniversityofPlymouth,10007801-6--Cross disciplinary software for optimising the design and changing structure of .pdf,software
+UniversityofPlymouth,10007801-1--Improving screening during pregnancy.pdf,software
+UniversityofPlymouth,10007801-19--Regional economic impacts_ input-output models and spatial econometrics.pdf,software
+UniversityofPlymouth,10007801-10--Benchmark Testing in High Performance Computing.pdf,github
+UniversityofPlymouth,10007801-15--Research algorithms for coastal and estuarine evolution inform flood protection .pdf,software
+UniversityofPlymouth,10007801-7--Coastal Video Research In Support of Coastal Zone Management.pdf,software
+UniversityofPlymouth,10007801-19--Integrated Container Fleet Management in Transportation Service Systems.pdf,software
+UniversityofPortsmouth,10007155-12--Improved Creep-Fatigue-Oxidation Resistance in Gas Turbine Disc Materials.pdf,software
+UniversityofPortsmouth,10007155-17--Enabling access to local historical information for everywhere.pdf,software
+UniversityofPortsmouth,10007155-36--Preserving the Digital Future_ The impact of the TOTEM (Trustworthy Online Techn.pdf,software
+UniversityofPortsmouth,10007155-9--Impact of Baryon Acoustic Oscillations research on the European Space Agency Euc.pdf,software
+UniversityofPortsmouth,10007155-11--Clinical Outcome Modelling Saves Lives.pdf,software
+UniversityofPortsmouth,10007155-11--Improved Mobility and Quality of Life for Children with Disabilities.pdf,software
+UniversityofLiverpool,10006842-11--Agent-Oriented Software Engineering_ The Gaia Methodology.pdf,software
+UniversityofLiverpool,10006842-11--In My Shoes_ A Software Tool for Professionals assisting Children and Vulnerable.pdf,software
+UniversityofLiverpool,10006842-10--Applications of Singularity Theory and 3D Modelling in Arts and Retail.pdf,software
+UniversityofLiverpool,10006842-1--Improving the Impact of Malaria Prevention Activities.pdf,software
+UniversityofLiverpool,10006842-13--Chromatic Monitoring For Industry And The Health Sector.pdf,software
+UniversityofLiverpool,10006842-13--Radio Frequency (RF) Engineering for Applications.pdf,software
+UniversityofLiverpool,10006842-13--Q-Technologies Limited (University of Liverpool Spin Out company).pdf,software
+UniversityofLiverpool,10006842-10--Metamaterial systems and routing of elastic waves in engineered structures.pdf,software
+UniversityofLiverpool,10006842-35--Audiotechtonics_ Composing for Percussion and Electronics.pdf,software
+UniversityofLiverpool,10006842-11--National Gas Demand Forecasting.pdf,software
+UniversityofLiverpool,10006842-4--Providing Evidence Based Solutions in Criminal Justice and Critical Incidents.pdf,software
+UniversityofLiverpool,10006842-36--City in Film.pdf,software
+UniversityofLiverpool,10006842-10--Radiometric dating of environmental records in natural archives.pdf,software
+UniversityofLiverpool,10006842-36--The application of embedded analytics to hyper-scale and distributed data archiv.pdf,software
+UniversityofHuddersfield,10007148-15--The Development of World Leading Surface Metrology Software.pdf,software
+UniversityofHuddersfield,10007148-29--Language Unlocked.pdf,software
+UniversityofHuddersfield,10007148-35--Commercial Implementations of the HISSTools Impulse Response Toolbox.pdf,software
+UniversityofHuddersfield,10007148-11--Engineering Knowledge for Autonomous  and Intelligent Systems.pdf,software
+UniversityofHuddersfield,10007148-15--Advanced machine tool accuracy measurement and improvement.pdf,software
+UniversityofHuddersfield,10007148-15--Optimal design of flow handling systems using computational fluid dynamics.pdf,software
+UniversityofHuddersfield,10007148-11--Development of a Next-Generation Student Response System for Academia and Indust.pdf,software
+StaffordshireUniversity,10006299-36--Information Literacy.pdf,software
+StaffordshireUniversity,10006299-11--Adaptive Video Analytics Software.pdf,software
+StaffordshireUniversity,10006299-34--Aynsley China Research and Impact via Flux Stoke on Trent.pdf,software
+StaffordshireUniversity,10006299-26--Developing a Challenge Approach to Psychological Stress .pdf,software
+StaffordshireUniversity,10006299-4--Giving up to save face_ Investigating the impact of age-appearance facial morphi.pdf,software
+StaffordshireUniversity,10006299-11--Computer Based Methods for Diagnosing and Predicting River Health.pdf,software
+UniversityofNottingham,10007154-9--Catalysing the Clinical Application of High-Field Magnetic Resonance Imaging (MR.pdf,software
+UniversityofNottingham,10007154-6--British Dairy Herd National Mastitis Control Scheme. The _DairyCo Mastitis Contr.pdf,software
+UniversityofNottingham,10007154-9--Optimising Gradient and Shim Coils for Next-Generation Magnetic Resonance Imagin.pdf,software
+UniversityofNottingham,10007154-10--Incorporating expert knowledge in complex industrial and policy applications.pdf,software
+UniversityofNottingham,10007154-6--Prevention of dry period infections in dairy cows.pdf,software
+UniversityofNottingham,10007154-2--QRISK - a new cardiovascular risk score to identify patients at high risk of car.pdf,software
+UniversityofNottingham,10007154-29--Transforming curriculum design in schools and universities_ the ELT sector.pdf,software
+UniversityofNottingham,10007154-2--Implementing strategies for reducing prescribing errors in general practices.pdf,software
+UniversityofNottingham,10007154-5--Attack from All Sides - Comprehensive Political and Practical Approaches to Redu.pdf,java
+UniversityofNottingham,10007154-10--Advancing the application of mathematics and statistics in the medical and biolo.pdf,software
+UniversityofNottingham,10007154-10--Improved movement and fingerprint analysis using statistical shape analysis in c.pdf,software
+UniversityofNottingham,10007154-15--Passively safe street furniture.pdf,software
+UniversityofNottingham,10007154-16--Use of natural lighting and ventilation to deliver energy savings and commercial.pdf,software
+UniversityofNottingham,10007154-32--Changing Software Through Metaphysics.pdf,software
+UniversityofNottingham,10007154-10--Enhancing vibro-acoustic modelling of built-up structures for industrial partner.pdf,software
+UniversityofNottingham,10007154-9--A New Manufacturing, Research and Development Centre for e2v.pdf,software
+UniversityofNottingham,10007154-15--A Novel Method of Composite Design for Structural Engineering.pdf,software
+UniversityofNottingham,10007154-6--Improving sensory science capability through industry training.pdf,software
+UniversityofNottingham,10007154-4--Adoption of new engineering solutions to reduce the patient experience of intens.pdf,software
+LiverpoolSchoolofTropicalMedicine,10003958-1--Improving the Impact of Malaria Prevention Activities.pdf,software
+UniversityofCentralLancashire,10007141-4--Providing software, training and support to the police to allow them to identify.pdf,software
+UniversityofCentralLancashire,10007141-9--Outreach and research-informed public engagement in astronomy.pdf,software
+UniversityofCentralLancashire,10007141-15--Synergistic impacts from cross-sectoral research in signal and image processing .pdf,software
+UniversityofCentralLancashire,10007141-15--Applications of threaded-fastener research leading to improved plant and transpo.pdf,software
+LondonMetropolitanUniversity,10004048-11--An Innovative Intelligent Keyboard Design for disabled community..pdf,software
+LondonMetropolitanUniversity,10004048-19--Accessibility & User Needs in Transport for Sustainable Urban Environments (AUNT.pdf,software
+LondonMetropolitanUniversity,10004048-22--Violence Against Women_ Enhancing responses to victim-survivors  .pdf,software
+LondonMetropolitanUniversity,10004048-11--Development of Inclusive Participative Media.pdf,software
+LondonMetropolitanUniversity,10004048-16--Architecture of Rapid Change and Scarce Resources.pdf,software
+LondonMetropolitanUniversity,10004048-10--Centile and growth curves estimation .pdf,software
+LondonMetropolitanUniversity,10004048-3--Childhood Obesity assessment - influence on policy, practice and public percepti.pdf,software
+UniversityoftheWestofScotland,10007800-11--Centre for Enabling Technology Generates Economic Impact on a Worldwide Scale.pdf,software
+UniversityoftheWestofScotland,10007800-11--Economic, Societal and Policy Impact of ICTE Research Centre.pdf,software
+UniversityofSalford,10007156-11--Collaborative Visualisation  .pdf,software
+UniversityofSalford,10007156-19--A player performance index for Professional Football.pdf,software
+UniversityofSalford,10007156-16--Applied Acoustics in the built environment and its broader uptake.pdf,software
+UniversityofSalford,10007156-11--The Pattern Recognition and Image Analysis (PRImA) Research Laboratory_ Digitisi.pdf,software
+UniversityofSalford,10007156-3--International Standards for Nursing Terminology.pdf,software
+UniversityofSalford,10007156-3--Foot Health Devices.pdf,software
+KeeleUniversity,10007767-11--Classification within forensic datasets.pdf,software
+KeeleUniversity,10007767-15--Microseismic Monitoring for Environmental and Geotechnical Engineering Applicati.pdf,software
+KeeleUniversity,10007767-11--Automated object recognition and focussing for Medical Applications.pdf,software
+KeeleUniversity,10007767-29--Identities Empowered_ Creative Writing, Production, Technology.pdf,software
+KeeleUniversity,10007767-15--SIFT-MS_ instruments for breath analysis and trace gas analysis in medicine and .pdf,software
+KeeleUniversity,10007767-7--Microseismic Monitoring for Environmental Applications.pdf,software
+KeeleUniversity,10007767-35--Creative Practice in Music Technology.pdf,software
+InstituteofCancerResearch,10003324-1--Developing and disseminating conformal radiotherapy and intensity modulated radi.pdf,software
+UniversityofHull,10007149-11--Vertual and VERT (Virtual Environment for Radiotherapy Training).pdf,software
+UniversityofHull,10007149-11--HiP-HOPS_ A novel method and tool for dependability analysis and optimisation of.pdf,software
+BirkbeckCollege,10007760-34--Computer Arts - establishing technoculture collections.pdf,software
+BirkbeckCollege,10007760-11--Intelligent Constructionist Tools for Learning and Teaching.pdf,software
+BirkbeckCollege,10007760-5--Antibody sequence and structure analysis assists biologic drug design.pdf,software
+BirkbeckCollege,10007760-11--Research advances in Participatory Cyber-physical Computing resulting in innovat.pdf,github
+BirkbeckCollege,10007760-18--Advances in Stochastic Modelling for Complex Option Pricing and Commodity Forwar.pdf,software
+BirkbeckCollege,10007760-5--The DichroWeb Analysis Server and Protein Circular Dichroism Data Bank_ analysis.pdf,software
+BirkbeckCollege,10007760-5--CATH structural classification of proteins aids drug discovery in the pharmaceut.pdf,software
+BirkbeckCollege,10007760-11--Informatics support for the management and integration of large-scale life scien.pdf,software
+BirkbeckCollege,10007760-18--Allowing for Model Uncertainty and Data Revisions in Central Banks' Forecasting .pdf,software
+BirkbeckCollege,10007760-28--Andean textiles_ creating cultural imagery in a digital age and recovering tradi.pdf,software
+LiverpoolJohnMooresUniversity,10003957-16--Impact on the use of novel microwave systems for converting waste into energy.pdf,software
+LiverpoolJohnMooresUniversity,10003957-9--Transformation of a Local Engineering Company through Collaborative R&D .pdf,software
+LiverpoolJohnMooresUniversity,10003957-3--New Computational Tools For The Improved Hazard Assessment of Chemicals. .pdf,software
+LiverpoolJohnMooresUniversity,10003957-3--Developing New Approaches for the Safety Assessment of Cosmetics to Replace the .pdf,software
+LiverpoolJohnMooresUniversity,10003957-15--Phase Unwrapping Software.pdf,github
+LiverpoolJohnMooresUniversity,10003957-11--Case Study 1 - Securing Networked Systems.pdf,software
+LiverpoolJohnMooresUniversity,10003957-25--The Use of Semantic Web Technologies developed for Teaching, Learning and Resear.pdf,software
+LiverpoolJohnMooresUniversity,10003957-9--The National Schools' Observatory.pdf,software
+LiverpoolJohnMooresUniversity,10003957-13--Impact of research into transistor carrier mobility measurement on globally used.pdf,software
+LiverpoolJohnMooresUniversity,10003957-24--LJMU behavioural ecology research impacts conservation strategy and practice in .pdf,software
+ManchesterMetropolitanUniversity,10004180-7--Offshore Renewable Energy Deployment.pdf,software
+ManchesterMetropolitanUniversity,10004180-3--Pioneering Research at MMU which transformed microbial identification using MALD.pdf,software
+ManchesterMetropolitanUniversity,10004180-35--Space Engagers_ The impact of arts and technology on place-based research. .pdf,software
+ManchesterMetropolitanUniversity,10004180-15--The Impact of MMU Research on the Optimisation of Railway Vehicle-Track interact.pdf,software
+NewcastleUniversity,10007799-17-B-Establishing ecological and chemical thresholds for sustainable freshwaters.pdf,software
+NewcastleUniversity,10007799-16--Cities, Infrastructure and Security_ leading public discourse and policy debate.pdf,software
+NewcastleUniversity,10007799-11--Expansion of the middleware software market.pdf,software
+NewcastleUniversity,10007799-14--Robust risk assessments of climate change, flood and drought.pdf,software
+NewcastleUniversity,10007799-8--International synchrotron facilities for crystal structure determination .pdf,software
+NewcastleUniversity,10007799-11--Improved Processes for the Development of Dependable Systems.pdf,software
+NewcastleUniversity,10007799-17-B-Defining functional areas for policy development and implementation.pdf,software
+NewcastleUniversity,10007799-28--Transforming clinical practice in aphasia_  The Comprehensive Aphasia Test (CAT).pdf,software
+NewcastleUniversity,10007799-13--Development of an open network communication protocol standard.pdf,software
+NewcastleUniversity,10007799-16--Information Modelling and Application Development for Improved Construction Indu.pdf,software
+NewcastleUniversity,10007799-20--Improving the governance of common land in England and Wales.pdf,software
+NewcastleUniversity,10007799-11--Worldwide adoption of asynchronous circuits and improved business process modell.pdf,software
+NewcastleUniversity,10007799-7--Risk Reduction in Petroleum Systems and Pore Pressure Prediction.pdf,software
+NewcastleUniversity,10007799-10--Faster Fault Tracking for National Grid Gas.pdf,software
+NewcastleUniversity,10007799-13--Worldwide Industrial Adoption of Asynchronous System Design.pdf,software
+NewcastleUniversity,10007799-7--Improved production from biodegraded heavy oil reservoirs.pdf,software
+NewcastleUniversity,10007799-10--Keeping Track of Nuclear Fuel in Reprocessing .pdf,software
+UniversityfortheCreativeArts,10006427-34--Eco-Design and Eco-Innovation into Business.pdf,software
+FalmouthUniversity,10008640-35--Performance Research is an independent journal_book series championing artistic-.pdf,software
+FalmouthUniversity,10008640-34--Crafting the Digital; analogue_physical interfaces to digital functionality, con.pdf,software
+QueenMargaretUniversityEdinburgh,10005337-28--Electropalatography (EPG) to Support Speech Pathology Assessment, Diagnosis and .pdf,software
+QueenMargaretUniversityEdinburgh,10005337-28--Articulate Instruments - visualising speech.pdf,software
+UniversityofEssex,10007791-11--UltraSoC_ Commercialisation of a novel debug support architecture for multi-proc.pdf,software
+UniversityofEssex,10007791-28--Developing prototypes for natural-language interfaces in collaboration with BAE .pdf,software
+UniversityofEssex,10007791-11--Optical Switching for High Performance Networks.pdf,software
+UniversityofEssex,10007791-11--Type-2 Fuzzy Logic_ Managing uncertainty and imprecision in telecoms and finance.pdf,software
+UniversityofEssex,10007791-18--EUROMOD_ Enabling the European Commission and national governments to simulate t.pdf,software
+LondonSouthBankUniversity,10004078-15--New voice alarm systems for underground stations developed through use of acoust.pdf,software
+LondonSouthBankUniversity,10004078-19--A novel e-platform that has transformed a traditional sheet music business into .pdf,software
+LondonSouthBankUniversity,10004078-15--Commercialisation of a novel close-chamber technology for water vapour flux dens.pdf,software
+LondonSouthBankUniversity,10004078-19--Implementation of a new Organisational Knowledge Management and e-Student System.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-16--The co-ordinated virtual city model in urban design, planning and management.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-11--Cyber Security_ Situational Awareness and Infrastructure Protection research cha.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-19--The impact of systems integration research on business improvement_ the creation.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-4--Improving the design of health related websites and clarifying a role for peer-t.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-3--Evaluating nutritional interventions for the improvement of brain function_ vali.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-34--Edwardians Online_ Using expertise in Edwardian visual culture to increase inter.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-34--Virtual VJ_ Enabling Engagement Through Audio-Visual Performance.pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-16--Transforming the Built Environment through Building Information Management (BIM).pdf,software
+UniversityofNorthumbriaatNewcastle,10001282-10--Improving Social Care Call Centre Operational Effectiveness.pdf,software
+UniversityofLeicester,10007796-9--Research affecting UK Government Space Policy and the UK Space Industry..pdf,software
+UniversityofLeicester,10007796-11--Enhancing the effectiveness of educational games and learning tools.pdf,software
+UniversityofLeicester,10007796-11--Software companies stay innovative and win business in fast-moving and competiti.pdf,software
+UniversityofLeicester,10007796-18--More accurate economic forecasting for management of the world economy.pdf,software
+UniversityofLeicester,10007796-2--Development of methods to better inform healthcare decision making and innovatio.pdf,software
+UniversityofLeicester,10007796-11--Underpinning successful UK-based innovation in security alarm systems.pdf,software
+UniversityofLeicester,10007796-9--The National Space Centre (NSC).pdf,software
+UniversityofLeicester,10007796-10--Data maps with applications to medical diagnostics and monitoring.pdf,software
+UniversityofLeicester,10007796-19--The user- centred management of innovation in two SMEs.pdf,software
+UniversityofLeicester,10007796-15--Time Triggered High Reliability Embedded Systems.pdf,software
+Goldsmiths'College,10002718-11--Multimedia_ the impact of Content-based Multi-media algorithms.pdf,github
+Goldsmiths'College,10002718-36--Is Another Internet Possible_ Power Struggles for Ownership and Control of Cyber.pdf,software
+Goldsmiths'College,10002718-11--SpendInsight.pdf,software
+Goldsmiths'College,10002718-34--Design_ Interaction Research Studio.pdf,software
+Goldsmiths'College,10002718-11--Winkball_ connecting people through video.pdf,software
+Goldsmiths'College,10002718-4--Eyewitness Identification Evidence.pdf,software
+CanterburyChristChurchUniversity,10001143-35--Practice-based research in composition.pdf,software
+King'sCollegeLondon,10003645-15--Spatiotemporal Undersampling for Highly Accelerated MRI.pdf,software
+King'sCollegeLondon,10003645-5--LiDCO_ Minimally invasive measurements of cardiac output and haemodynamics by li.pdf,software
+King'sCollegeLondon,10003645-10--Conceptual insights and numerical methods for polydisperse phase behaviour.pdf,software
+King'sCollegeLondon,10003645-3-A-Towards world-wide standardisation of caries detection, assessment and preventiv.pdf,software
+King'sCollegeLondon,10003645-15--Simultaneous PET & MRI.pdf,software
+King'sCollegeLondon,10003645-32--History of Philosophy without any Gaps Podcasts.pdf,software
+King'sCollegeLondon,10003645-15--Platform for image-guided treatment of arrhythmia.pdf,software
+King'sCollegeLondon,10003645-11--Data provenance standardisation [DPS].pdf,software
+King'sCollegeLondon,10003645-35-A-The CHARM Website.pdf,software
+King'sCollegeLondon,10003645-11--Search Based Software Testing as a Practical Tool [PEX].pdf,software
+King'sCollegeLondon,10003645-11--International software modelling standards [SMS].pdf,software
+King'sCollegeLondon,10003645-1--Improved survival of patients with acute promyelocytic leukaemia due to personal.pdf,software
+King'sCollegeLondon,10003645-19--Video Analytic Methods and the Design of Advanced Technologies.pdf,software
+SheffieldHallamUniversity,10005790-36--Rural e-Services.pdf,software
+SheffieldHallamUniversity,10005790-26--3D Measurement Systems.pdf,software
+SheffieldHallamUniversity,10005790-13--Fluid Modelling - Expertise and Software.pdf,software
+SheffieldHallamUniversity,10005790-5--Mass Spectrometry Imaging of Biological Tissue.pdf,software
+SheffieldHallamUniversity,10005790-13--Technologies, Repair Solutions, Management Strategies and Materials for Concrete.pdf,software
+UniversityofBedfordshire,10007152-11--Cyberstalking countermeasures adopted by Government bodies.pdf,software
+UniversityofBedfordshire,10007152-26--Impact of the development of the Coach Analysis Intervention System (CAIS).pdf,software
+UniversityofBedfordshire,10007152-11--Energy supply industry design capability and chip manufacturers' market performa.pdf,software
+UniversityofBedfordshire,10007152-35--Choreographing technology.pdf,software
+UniversityofBrighton,10000886-11--Using Diagrams at Nokia to Protect Privacy.pdf,software
+UniversityofBrighton,10000886-22--Influencing policies on gun crime and CCTV to promote public safety.pdf,software
+UniversityofBrighton,10000886-11--Using Computational Lexicography for Dictionary Production with the Sketch Engin.pdf,software
+UniversityofBrighton,10000886-36--Shaping 3D Digital Cultural Heritage.pdf,software
+UniversityofChichester,10007137-35--Impact in the games industry from practice based research in sound design and so.pdf,software
+UniversityofWestminster,10007165-16--Delay Cost Management in European Aviation.pdf,software
+UniversityofWestminster,10007165-19--Cross-national Equivalence of Skills and Qualifications across Europe.pdf,software
+UniversityofWestminster,10007165-11--Gateway technologies for high-performance computing in business, industry and sc.pdf,software
+UniversityofWestminster,10007165-11--Balanced Model Truncation (BMT) and its Applications in DSP System Modelling and.pdf,software
+UniversityofWestminster,10007165-11--Component-based Highly Productive Methodology for Software Development in Grid a.pdf,software
+UniversityoftheArts,London,10007162-34--Professor Rob Kesseler's collaboration with the Royal Botanic Gardens, Kew.pdf,software
+UniversityoftheArts,London,10007162-34--Ligatus Research Centre at the University of the Arts London.pdf,software
+UniversityofSouthampton,10007158-10--Optimising Spacecraft Design for A World-leading Space Agency.pdf,software
+UniversityofSouthampton,10007158-15--Turbulence Generation Method in Urban Environment and Wind Engineering Applicati.pdf,software
+UniversityofSouthampton,10007158-10--Making It Count_ Improving the Census.pdf,software
+UniversityofSouthampton,10007158-11--Leading the open data revolution.pdf,software
+UniversityofSouthampton,10007158-11--Applications of agent technology.pdf,software
+UniversityofSouthampton,10007158-35--The Music of Michael Finnissy.pdf,software
+UniversityofSouthampton,10007158-10--Transforming the efficiency of Ford's engine production line.pdf,software
+UniversityofSouthampton,10007158-15--Intelligent Traffic and Vehicle Systems.pdf,software
+UniversityofSouthampton,10007158-1--The Role of Vitamin D in Reducing Osteoporotic Fractures.pdf,software
+UniversityofSouthampton,10007158-1--New gene mapping tools.pdf,software
+UniversityofSouthampton,10007158-10--Using Novel Statistical Modelling Techniques to Deliver More Accurate Air Pollut.pdf,software
+UniversityofSouthampton,10007158-9--Advances in Gamma-Ray Detection and Imaging.pdf,software
+UniversityofSouthampton,10007158-13--Walk This Way_ Leading the World in Gait Biometrics.pdf,software
+UniversityofSouthampton,10007158-11--Web Science_ Designing a Pro-Human World Wide Web.pdf,software
+UniversityofSouthampton,10007158-15--Decision Analysis and Support Tools for the Aerospace Industry.pdf,software
+UniversityofSouthampton,10007158-17-B-Redrawing the Lines_ Developing New Census Output Geographies.pdf,software
+UniversityofSouthampton,10007158-15--Sustainable expansion of rail networks through noise reduction.pdf,software
+UniversityofSouthampton,10007158-17-A-The Portus Project_ Bringing the Roman Empire Back to Life.pdf,software
+UniversityofSouthampton,10007158-10--Improved Drug Development Using Supersaturated Experiments.pdf,software
+UniversityofSouthampton,10007158-7--Hydrocarbon exploration using marine electromagnetic techniques.pdf,software
+UniversityofSouthampton,10007158-10--Small Area Estimation_ Data Provision for Smarter Local Policymaking.pdf,software
+UniversityofSouthampton,10007158-13--Reliable Cable Systems for Energy Security.pdf,software
+UniversityofSouthampton,10007158-11--Intelligent Energy Management.pdf,software
+UniversityofSouthampton,10007158-15--Dezineforce - pioneering cloud computing.pdf,software
+UniversityofSouthampton,10007158-11--Open Access and Digital Archiving.pdf,software
+UniversityofSouthampton,10007158-19--Delivering better and cheaper school bus services.pdf,software
+LoughboroughUniversity,10004113-17--Shaping practices in the management of river sediments.pdf,software
+LoughboroughUniversity,10004113-34--Improved athletic performance and sports clothing design through the provision o.pdf,software
+LoughboroughUniversity,10004113-11--Image Enhancement Pipelines that Allow Digital Images to be Viewed as Seen by Hu.pdf,software
+LoughboroughUniversity,10004113-12--Engineering elite footballs through high quality research.pdf,software
+LoughboroughUniversity,10004113-11--Enhanced products and services through low-cost wireless solutions.pdf,software
+LoughboroughUniversity,10004113-36-B-Changing communication skills training methods with the Conversation Analytic Ro.pdf,software
+LoughboroughUniversity,10004113-16--Revolutionising design planning and management.pdf,software
+LoughboroughUniversity,10004113-19--Improving Production and Logistics Operations in the Steel Industry.pdf,software
+LoughboroughUniversity,10004113-12--Stability control algorithm research improves handling and safety for Jaguar Lan.pdf,software
+LoughboroughUniversity,10004113-36-A-Improving Police Efficiency and Effectiveness through Mobile Technologies.pdf,software
+LoughboroughUniversity,10004113-12--The commercial and economic benefits of research at Loughborough into the proces.pdf,software
+LoughboroughUniversity,10004113-10--Improved modelling of ion dynamics in the Thermo Scientific OrbitrapTM mass anal.pdf,software
+LoughboroughUniversity,10004113-10--Fast binary decision algorithms to enable real time diagnosis of in-flight fault.pdf,software
+LoughboroughUniversity,10004113-19--The PEArL Framework_ Facilitating Change in Complex Social and Commercial Settin.pdf,software
+LoughboroughUniversity,10004113-11--Commercialisation of novel knowledge-based computer tools for process plant desi.pdf,software
+LoughboroughUniversity,10004113-14--Improved global airfield safety through enhanced aircraft accident modelling.pdf,software
+LoughboroughUniversity,10004113-17--Scientific advisory services for climate adaptation and development planning.pdf,software
+LoughboroughUniversity,10004113-10--Quantum and classical atomistic methods to enable improved processing and perfor.pdf,software
+LoughboroughUniversity,10004113-16--Improving the quality of UK NHS healthcare estates.pdf,software
+LoughboroughUniversity,10004113-26--The integration and application of psychology in youth football_ Research-relate.pdf,software
+LoughboroughUniversity,10004113-13--Significant commercialisation with international impact underpinned by substanti.pdf,software
+StMary'sUniversity,Twickenham,10007843-30--History, Culture and Memory as Sites of Life-long Learning in Palestine.pdf,software
+UniversityofEdinburgh,10007790-15--07 - Increasing Oil Recovery by Advanced Reservoir Management.pdf,software
+UniversityofEdinburgh,10007790-15--05 - Effective Design and Operation of Concrete Infrastructure.pdf,software
+UniversityofEdinburgh,10007790-10--Interior point methods adopted by leading optimization software.pdf,software
+UniversityofEdinburgh,10007790-10--Uplift modelling for improved customer targeting.pdf,software
+UniversityofEdinburgh,10007790-9--A New Generation of Supercomputers results from the Co-Design of a Computer Chip.pdf,software
+UniversityofEdinburgh,10007790-35--1. The Skoog_  a new kind of musical instrument .pdf,software
+UniversityofEdinburgh,10007790-15--08 - Assuring Hydrocarbon Flow with Improved Hydrate Management.pdf,software
+UniversityofEdinburgh,10007790-11--Milepost GCC and compiler research at Edinburgh.pdf,software
+UniversityofEdinburgh,10007790-11--The Natural Language Toolkit (NLTK).pdf,github
+UniversityofEdinburgh,10007790-11--Automatic detection of defects in multi-threaded enterprise Java codebases.pdf,software
+UniversityofEdinburgh,10007790-15--13 - Advanced Wavemaker Designs.pdf,software
+UniversityofEdinburgh,10007790-6--1f. The development of genomic selection and application through optimal contrib.pdf,software
+UniversityofEdinburgh,10007790-11--The EnCore Microprocessor and the ArcSim Simulator.pdf,software
+UniversityofEdinburgh,10007790-16--7. Revitalising the cultural and retail environments through technology.pdf,software
+UniversityofEdinburgh,10007790-11--Speech Graphics Ltd_ Audio-driven Animation.pdf,software
+UniversityofEdinburgh,10007790-15--20 - Smart Software for Autonmous Maritime Systems.pdf,software
+UniversityofEdinburgh,10007790-11--Clinical and commercial applications of text-to-speech synthesis technologies.pdf,software
+UniversityofEdinburgh,10007790-11--Actual Analytics Ltd_ automated processing of video data to reduce the use of la.pdf,software
+UniversityofEdinburgh,10007790-18--Driving Innovation in the Globalised ICT Ecosystem .pdf,software
+UniversityofEdinburgh,10007790-23--4_ Impacts on Life Science Innovation and its Governance.pdf,software
+UniversityofEdinburgh,10007790-11--The Moses Machine Translation Toolkit.pdf,software
+UniversityofEdinburgh,10007790-10--Stochastic models of longevity risk adopted by the pension industry.pdf,software
+UniversityofEdinburgh,10007790-17--Uncovering the secrets of the Rhind Mummy (in partnership with National Museums .pdf,software
+UniversityofEdinburgh,10007790-10--Statistical models of mortality impact on the pricing and reserving of pensions.pdf,software
+UniversityofEdinburgh,10007790-16--4. Radically improving built assets through reduced CO2 emissions .pdf,software
+UniversityofEdinburgh,10007790-5--01_Phylogenetic analysis software BEAST informs public health responses to infec.pdf,software
+UniversityofEdinburgh,10007790-28-B-Commercial and clinical impact of speech synthesis.pdf,software
+UniversityofEdinburgh,10007790-1--F_ By defining the minimum liver remnant required, volumetric analysis is now th.pdf,software
+UniversityofEdinburgh,10007790-10--Bayesian statistical methods applied to the quantification of forensic evidence.pdf,software
+UniversityofEdinburgh,10007790-9--Translational Biophysics - IBM Blue Gene Application Demonstrator Portfolio.pdf,software
+UniversityofEdinburgh,10007790-15--18 - Feature Recognition for Smart Design and Manufacture.pdf,software
+UniversityofEdinburgh,10007790-15--12 - Oilfield Mineral Scale Management.pdf,software
+UniversityofEdinburgh,10007790-10--New thermostatic controls adopted by molecular dynamics software providers.pdf,software
+UniversityofEdinburgh,10007790-9--Millimetre wave Instrumentation for High Field Electron Paramagnetic Resonance.pdf,software
+UniversityofEdinburgh,10007790-15--01 - Increasing the efficiency of Railway Track Maintenance through Ballast Rein.pdf,software
+UniversityofEdinburgh,10007790-16--3. Alleviating poverty in Sub-Saharan Africa through equitable, needs-based appr.pdf,software
+UniversityofEdinburgh,10007790-9--The Message Passing Interface (MPI)_ An International Standard for Programming P.pdf,software
+UniversityofEdinburgh,10007790-30--City Development and the Management of Urban Space.pdf,software
+UniversityofEdinburgh,10007790-1--T_ Commercialisation of ScreenTapeT - a microfluidic tool for genomics, next-gen.pdf,software
+UniversityofEdinburgh,10007790-11--Shaping the XML technologies used to manage the world's data.pdf,software
+UniversityofStAndrews,10007803-10--Innovations in mathematics teaching using GAP.pdf,software
+UniversityofStAndrews,10007803-17--The construction and adoption of data zones as a new geography of Scotland.pdf,software
+UniversityofStAndrews,10007803-9--A New Generation of Supercomputers results from the Co-Design of a Computer Chip.pdf,software
+UniversityofStAndrews,10007803-29--Reading Shakespeare's Sonnets in the Digital Age.pdf,software
+UniversityofStAndrews,10007803-5--Enabling Industry compliance with offshore regulation.pdf,software
+UniversityofStAndrews,10007803-9--The Message Passing Interface (MPI)_ An International Standard for Programming P.pdf,software
+UniversityofStAndrews,10007803-9--Millimetre wave Instrumentation for High Field Electron Paramagnetic Resonance.pdf,software
+UniversityofStAndrews,10007803-19--Capitalising on creativity in the film and screen industry.pdf,software
+UniversityofStAndrews,10007803-11--Extending Open Virtual Worlds for Cultural Heritage and Education.pdf,software
+UniversityofStAndrews,10007803-5--Animal-borne telemetry tags for conservation and weather forecasting.pdf,software
+UniversityofStAndrews,10007803-9--Translational Biophysics - IBM Blue Gene Application Demonstrator Portfolio.pdf,software
+UniversityofStAndrews,10007803-10--Distance sampling surveys_  enabling better decision-making by wildlife managers.pdf,software
+ImperialCollegeLondon,10003270-12--9. Putting pressure information into sharp focus_ the use of deconvolution to bo.pdf,software
+ImperialCollegeLondon,10003270-9--P1 - The commercial applications and economic success of fluorescence lifetime i.pdf,software
+ImperialCollegeLondon,10003270-10--C9 - Modelling of bulk and guided waves in the Non-Destructive Evaluation of str.pdf,software
+ImperialCollegeLondon,10003270-12--7. Air Rate adjustment to peak air recovery (PAR) to increase mineral production.pdf,software
+ImperialCollegeLondon,10003270-1--Eliminating Death from Heart Failure in Thalassaemia Major Using T2_ Cardiovascu.pdf,software
+ImperialCollegeLondon,10003270-12--8. Full-waveform seismic inversion_ improving resolution in oil & gas exploratio.pdf,software
+ImperialCollegeLondon,10003270-12--4. Rolls-Royce University Technology Centre on Vibration.pdf,software
+ImperialCollegeLondon,10003270-14--4. Mitigation of geotechnical risk through the development of advanced numerical.pdf,software
+ImperialCollegeLondon,10003270-10--C4 - BUGS (Bayesian inference using Gibbs sampling).pdf,software
+ImperialCollegeLondon,10003270-1--Acrobot_ Active Constraint Robots Improve Outcome in Arthritis Surgery.pdf,software
+ImperialCollegeLondon,10003270-10--C10 - Forecasting Ocean Oil Spill movements, facilitating Oil Spill clean-ups.pdf,software
+ImperialCollegeLondon,10003270-12--13. Increased safety and efficiency of oil and gas process designs from improved.pdf,software
+ImperialCollegeLondon,10003270-14--5. Improved flood risk management through advances in rainfall modelling, experi.pdf,software
+ImperialCollegeLondon,10003270-5--2 - Pioneering Methods for Biopolymer Analysis and their Impact on Biopharmaceut.pdf,software
+ImperialCollegeLondon,10003270-15--Wave Intensity Analysis removes the need for drugs in the diagnosis of coronary .pdf,software
+ImperialCollegeLondon,10003270-10--C3 - Applications of Bayesian methods in finance, credit scoring and target trac.pdf,software
+ImperialCollegeLondon,10003270-12--12. Process Systems Enterprise Ltd.pdf,software
+ImperialCollegeLondon,10003270-12--6. Peering into the pore space_ digital rock physics to improve oilfield managem.pdf,software
+ImperialCollegeLondon,10003270-12--18. Improving survivability of protective structures through novel design and mo.pdf,software
+ImperialCollegeLondon,10003270-14--2_ Modelling extreme waves and their loads on offshore structures .pdf,software
+ImperialCollegeLondon,10003270-12--5. Successful Commercialisation of Advances in Computational Fluid Dynamics.pdf,software
+ImperialCollegeLondon,10003270-13-A-Case 4 - Reconfigurable Computing for High Performance Applications.pdf,software
+ImperialCollegeLondon,10003270-11--Case Study 2_ Reconfigurable Computing for High Performance Applications (Reconf.pdf,software
+ImperialCollegeLondon,10003270-12--14. Advanced thermodynamic modelling for complex fluids.pdf,software
+ImperialCollegeLondon,10003270-10--C6 - Wavelet analysis techniques developed into multiple software packages and w.pdf,software
+ImperialCollegeLondon,10003270-19--Transforming the project-based firm_  creating effective commercial and innovati.pdf,software
+ImperialCollegeLondon,10003270-11--Case Study 3_ Applications of Computational Optimization  under Uncertainty in D.pdf,software
+ImperialCollegeLondon,10003270-9--P12 - Anticounterfeiting_ Ingenia Technology Ltd and Laser Surface Authenticatio.pdf,software
+ImperialCollegeLondon,10003270-11--Case Study 6 _ Body Sensor Networks for Healthcare and Sports (BSN).pdf,software
+ImperialCollegeLondon,10003270-11--Case Study 5_ Knowledge Management Technology for Pharmaceutical and Healthcare .pdf,software
+UniversityofManchester,10007798-5--Macular pigment measurement in humans_ a new instrument, the Macular Pigment Scr.pdf,software
+UniversityofManchester,10007798-5--The Utopia Suite_ realising semantic knowledge discovery and data linkage in the.pdf,software
+UniversityofManchester,10007798-11--ICARUS - Interactive Construction of 3D Models from Digital Images.pdf,software
+UniversityofManchester,10007798-12-A-CPI - Centre for Process Integration.pdf,software
+UniversityofManchester,10007798-7--Development of predictive models for the distribution of hydrocarbon reservoir r.pdf,software
+UniversityofManchester,10007798-3--Drug Development_ Influences on Regulatory Policies and Industrial Practices (IC.pdf,software
+UniversityofManchester,10007798-11--Active Shape and Appearance Models.pdf,software
+UniversityofManchester,10007798-19--Impact on Software Exports Policymaking in Developing Countries _ The Developmen.pdf,software
+UniversityofManchester,10007798-14--Accelerated development of a tidal stream energy industry.pdf,software
+UniversityofManchester,10007798-11--OWL - an Ontology Language Standard with Sound Logical Underpinning.pdf,software
+UniversityofManchester,10007798-12-A-Carbon Calculations over the Life Cycle of Industrial Activities (CCaLC).pdf,software
+UniversityofManchester,10007798-11--Intelligent Pricing Decision Support Systems.pdf,software
+UniversityofManchester,10007798-10--X-ray tomography for airport security.pdf,software
+UniversityofManchester,10007798-14--Performance-based structural fire engineering.pdf,software
+UniversityofManchester,10007798-9--Communicating Physics through the Royal Society.pdf,software
+UniversityofManchester,10007798-23--Impact of Demographic Projections on Sub-national Planning.pdf,software
+UniversityofManchester,10007798-10--Mathematical Software for the Nearest Correlation Matrix.pdf,software
+UniversityofManchester,10007798-9--CPO software package for designing charged-particle optical systems.pdf,software
+UniversityofManchester,10007798-29--Challenging Cultural Assumptions About Multiple Sclerosis .pdf,software
+UniversityofManchester,10007798-10--Mathematical Software for Computing Matrix Functions.pdf,software
+UniversityofManchester,10007798-10--Oilfield Reservoir Souring Research and Development.pdf,software
+UniversityofManchester,10007798-3--Reducing prescribing errors and improving patient safety in primary and secondar.pdf,software
+UniversityofManchester,10007798-16--Ketso_ Creative Engagement and Participatory Planning.pdf,software
+UniversityofManchester,10007798-19--Mobilising knowledge to improve vascular health in the population of Greater Man.pdf,software
+UniversityofManchester,10007798-13-A-So You Think You Can Design A Jet Engine_! - A Toolkit For Communicating Materia.pdf,software
+UniversityofManchester,10007798-10--Novel Statistical Methods for Optimising Production of Disc Brake Pads.pdf,software
+UniversityofManchester,10007798-13-B-HV Asset Modelling and Management.pdf,software
+UniversityofManchester,10007798-25--Assessment tools and the impact on learners' `understanding and use' of mathemat.pdf,software
+UniversityofManchester,10007798-8--Diffusion-Ordered Spectroscopy.pdf,software
+UniversityofManchester,10007798-23--Impact on the Statistical Confidentiality Practices of Data Stewardship Organisa.pdf,software
+UniversityofManchester,10007798-11--Dynamic binary translation for virtualisation.pdf,software
+UniversityofManchester,10007798-13-B-Signal Wizard Systems_ Intuitive DSP.pdf,software
+UniversityofManchester,10007798-4--BIOXYDYN_ Magnetic Resonance Imaging Biomarkers.pdf,software
+RobertGordonUniversity,10005500-11--Ambient, context-aware and mobile applications - AmbieSense.pdf,github
+RobertGordonUniversity,10005500-11--Data-driven Decision Support.pdf,software
+RobertGordonUniversity,10005500-36--Impact on information management, behaviour and communications in the energy sec.pdf,software
+BrunelUniversityLondon,10000961-10--Computation of residual risk in industrial explosion protection installations.pdf,software
+BrunelUniversityLondon,10000961-15--National Structural Integrity Research Centre (NSIRC).pdf,software
+BrunelUniversityLondon,10000961-15--Development of Generator Dispatch Algorithms for National Grid.pdf,software
+BrunelUniversityLondon,10000961-3--Workforce development in referral prioritisation.pdf,software
+BrunelUniversityLondon,10000961-11--Software Engineering Impact through Fault Analyses.pdf,software
+BrunelUniversityLondon,10000961-29--`KAFKA'S WOUND' RE-IMAGINING THE LITERARY ESSAY FOR THE DIGITAL AGE (RILEDA).pdf,software
+BrunelUniversityLondon,10000961-19--An evaluation tool co-developed by Brunel University has helped Turkey, Qatar an.pdf,software
+BrunelUniversityLondon,10000961-11--Algorithms to support faster, cheaper and more accurate diagnosis of specific me.pdf,software
+BrunelUniversityLondon,10000961-35--Contemporary Middle Eastern Composition_ Archives, Advocacy and Performance.pdf,java
+BrunelUniversityLondon,10000961-11--Improving Data Models in Operational IT Systems.pdf,software
+BrunelUniversityLondon,10000961-10--Reduction of non-degradable waste from used plastic food packaging materials.pdf,software
+BrunelUniversityLondon,10000961-11--High Performance Simulation techniques to reduce industrial production and logis.pdf,software
+UniversityofExeter,10007792-10--Changing the way the European space industry verifies the safety of complex syst.pdf,software
+UniversityofExeter,10007792-15--Climate Change Data for Future Proofing Building Design.pdf,software
+UniversityofExeter,10007792-11--Cost Effective Design of City-Wide Water Distribution Infrastructure.pdf,software
+UniversityofExeter,10007792-11--Ensuring air traffic safety_ optimising short term conflict alert systems.pdf,software
+UniversityofExeter,10007792-15--Informing best practice and enhancing business performance in the water sector.pdf,software
+SchoolofOrientalandAfricanStudies,10007780-24-A-Understanding Craft Skills, their Acquisition and their Importance (Trevor March.pdf,software
+SchoolofOrientalandAfricanStudies,10007780-19--Influencing water management in the UK and internationally (Laurence Smith).pdf,software
+SchoolofOrientalandAfricanStudies,10007780-28--Documenting, Preserving and Sharing Global Linguistic Heritage (ELAR).pdf,software
+UniversityofBath,10007850-10--Improving Met Office weather forecasting accuracy.pdf,software
+UniversityofBath,10007850-10--Monitoring and management of German forest.pdf,software
+UniversityofBath,10007850-8--Atlas Genetics - _Test and Treat_ diagnostics for infectious diseases.pdf,software
+UniversityofBath,10007850-11--Virtual warehousing and market intelligence in online book retailing.pdf,software
+UniversityofBath,10007850-10--Improving Clinical Trials by Innovative Statistical Design.pdf,software
+UniversityofBath,10007850-16--Clever Roofs_ Innovative Methods to Cover Large Open Spaces.pdf,software
+UniversityofBath,10007850-10--Improving data analysis via better statistical infrastructure.pdf,software
+UniversityofBath,10007850-11--Collaboration research influencing defence and security policy, strategy and sta.pdf,software
+UniversityofBath,10007850-12--Improving packaging machine design and manufacture for a reduced carbon footprin.pdf,software
+UniversityofBath,10007850-11--Commercialised advances in computer algebra.pdf,software
+UniversityofBath,10007850-19--Improving Accuracy in Demand Forecasting.pdf,software

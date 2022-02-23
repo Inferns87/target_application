@@ -1,0 +1,178 @@
+Arxiv	cc53ba20d18d11ea9a8facde48001122	Small-world MCMC and convergence to multi-modal distributions: From slow
+  mixing to fast mixing	math.PR	http://arxiv.org/abs/math/0703021v1
+Arxiv	ce18f5d2d18d11ea9a8facde48001122	Control Variates for Reversible MCMC Samplers	stat.CO	http://arxiv.org/abs/1008.1355v1
+Arxiv	cfb9b46cd18d11ea9a8facde48001122	Automatic Step Size Selection in Random Walk Metropolis Algorithms	stat.CO	http://arxiv.org/abs/1103.5986v1
+Arxiv	d1588d34d18d11ea9a8facde48001122	Variational MCMC	cs.LG	http://arxiv.org/abs/1301.2266v1
+Arxiv	d2f8bec0d18d11ea9a8facde48001122	Metropolis-type algorithms for Continuous Time Bayesian Networks	stat.ME	http://arxiv.org/abs/1403.4035v1
+Arxiv	d60d1ffcd18d11ea9a8facde48001122	Bayesian Robust Quantile Regression	stat.ME	http://arxiv.org/abs/1605.05602v1
+Arxiv	d7aca9ead18d11ea9a8facde48001122	On the Uniform Random Generation of Non Deterministic Automata Up to
+  Isomorphism	cs.FL	http://arxiv.org/abs/1512.02797v1
+Arxiv	d93c4aaed18d11ea9a8facde48001122	Optimal scalings for local Metropolis--Hastings chains on nonproduct
+  targets in high dimensions	math.PR	http://arxiv.org/abs/0908.0865v1
+Arxiv	dacc9c20d18d11ea9a8facde48001122	Model selection of stochastic simulation algorithm based on generalized
+  divergence measures	stat.ME	http://arxiv.org/abs/1401.5015v1
+Arxiv	dc6ca822d18d11ea9a8facde48001122	Locally weighted Markov chain Monte Carlo	stat.CO	http://arxiv.org/abs/1506.08852v1
+Arxiv	de0d8f52d18d11ea9a8facde48001122	Irreversible Samplers from Jump and Continuous Markov Processes	stat.ME	http://arxiv.org/abs/1608.05973v5
+Arxiv	df9d8f0cd18d11ea9a8facde48001122	Metropolis Integration Schemes for Self-Adjoint Diffusions	math.NA	http://arxiv.org/abs/1309.5037v2
+Arxiv	e12dba04d18d11ea9a8facde48001122	Lattice Gaussian Sampling by Markov Chain Monte Carlo: Bounded Distance
+  Decoding and Trapdoor Sampling	cs.IT	http://arxiv.org/abs/1704.02673v2
+Arxiv	e2cf544ed18d11ea9a8facde48001122	The Skipping Sampler: A new approach to sample from complex conditional
+  densities	math.PR	http://arxiv.org/abs/1905.09964v1
+Arxiv	e4708250d18d11ea9a8facde48001122	f-SAEM: A fast Stochastic Approximation of the EM algorithm for
+  nonlinear mixed effects models	stat.ME	http://arxiv.org/abs/1910.12222v1
+Arxiv	e79af9e2d18d11ea9a8facde48001122	AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic
+  Gradient MCMC	cs.LG	http://arxiv.org/abs/2003.00193v1
+Arxiv	e93c25bed18d11ea9a8facde48001122	A method to reduce the rejection rate in Monte Carlo Markov Chains	cond-mat.stat-mech	http://arxiv.org/abs/1608.05899v3
+Arxiv	eace5baed18d11ea9a8facde48001122	Modified Hamiltonian Monte Carlo for Bayesian inference	stat.CO	http://arxiv.org/abs/1706.04032v2
+Arxiv	ec636914d18d11ea9a8facde48001122	Approximation and sampling of multivariate probability distributions in
+  the tensor train decomposition	math.NA	http://arxiv.org/abs/1810.01212v3
+Arxiv	ee0463aed18d11ea9a8facde48001122	Improved Adaptive Rejection Metropolis Sampling Algorithms	stat.CO	http://arxiv.org/abs/1205.5494v4
+Arxiv	efd0c8d0d18d11ea9a8facde48001122	Optimal scaling for the transient phase of Metropolis Hastings
+  algorithms: The longtime behavior	stat.ME	http://arxiv.org/abs/1212.5517v3
+Arxiv	f161b07ed18d11ea9a8facde48001122	Component-Wise Markov Chain Monte Carlo: Uniform and Geometric
+  Ergodicity under Mixing and Composition	stat.CO	http://arxiv.org/abs/0903.0664v6
+Arxiv	f34cf8e4d18d11ea9a8facde48001122	Spectral gaps for a Metropolis-Hastings algorithm in infinite dimensions	math.PR	http://arxiv.org/abs/1112.1392v4
+Arxiv	f4dc202cd18d11ea9a8facde48001122	CosmoHammer: Cosmological parameter estimation with the MCMC Hammer	astro-ph.CO	http://arxiv.org/abs/1212.1721v2
+Arxiv	f66ddcfad18d11ea9a8facde48001122	Bayesian Covariance Modelling of Large Tensor-Variate Data Sets $\&$
+  Inverse Non-parametric Learning of the Unknown Model Parameter Vector	stat.AP	http://arxiv.org/abs/1506.05709v1
+Arxiv	f98fad50d18d11ea9a8facde48001122	The Bouncy Particle Sampler: A Non-Reversible Rejection-Free Markov
+  Chain Monte Carlo Method	stat.ME	http://arxiv.org/abs/1510.02451v6
+Arxiv	fb426d9ad18d11ea9a8facde48001122	A hybrid inversion scheme combining Markov chain Monte Carlo and
+  iterative methods for determining optical properties of random media	physics.comp-ph	http://arxiv.org/abs/1802.00638v2
+Arxiv	fce37df6d18d11ea9a8facde48001122	Riemannian Manifold Hamiltonian Monte Carlo	stat.CO	http://arxiv.org/abs/0907.1100v3
+Arxiv	fe84315ad18d11ea9a8facde48001122	Ecological non-linear state space model selection via adaptive particle
+  Markov chain Monte Carlo (AdPMCMC)	stat.ME	http://arxiv.org/abs/1005.2238v1
+Arxiv	0026a466d18e11ea9a8facde48001122	MCMC with Strings and Branes: The Suburban Algorithm (Extended Version)	physics.comp-ph	http://arxiv.org/abs/1605.05334v2
+Arxiv	01b76fe0d18e11ea9a8facde48001122	Transport map accelerated Markov chain Monte Carlo	stat.CO	http://arxiv.org/abs/1412.5492v4
+Arxiv	03484122d18e11ea9a8facde48001122	Convergence properties of pseudo-marginal Markov chain Monte Carlo
+  algorithms	math.PR	http://arxiv.org/abs/1210.1484v3
+Arxiv	04d91d54d18e11ea9a8facde48001122	A random-batch Monte Carlo method for many-body systems with singular
+  kernels	physics.comp-ph	http://arxiv.org/abs/2003.06554v1
+Arxiv	06798446d18e11ea9a8facde48001122	A Brief Review of Optimal Scaling of the Main MCMC Approaches and
+  Optimal Scaling of Additive TMCMC Under Non-Regular Cases	stat.CO	http://arxiv.org/abs/1405.0913v5
+Arxiv	0819e69cd18e11ea9a8facde48001122	A Solution to the Galactic Foreground Problem for LISA	astro-ph	http://arxiv.org/abs/astro-ph/0611546v1
+Arxiv	0b1e6b92d18e11ea9a8facde48001122	Stochastic Attribute-Value Grammars	cmp-lg	http://arxiv.org/abs/cmp-lg/9610003v1
+Arxiv	0cf3ad1ad18e11ea9a8facde48001122	Searching for Massive Black Hole Binaries in the first Mock LISA Data
+  Challenge	gr-qc	http://arxiv.org/abs/gr-qc/0701167v1
+Arxiv	0e854dc8d18e11ea9a8facde48001122	The Monte Carlo method in quantum field theory	hep-lat	http://arxiv.org/abs/hep-lat/0702020v1
+Arxiv	10240566d18e11ea9a8facde48001122	General state space Markov chains and MCMC algorithms	math.PR	http://arxiv.org/abs/math/0404033v4
+Arxiv	11b4891ed18e11ea9a8facde48001122	Selection of a MCMC simulation strategy via an entropy convergence
+  criterion	math.ST	http://arxiv.org/abs/math/0605263v1
+Arxiv	13545790d18e11ea9a8facde48001122	Building a stochastic template bank for detecting massive black hole
+  binaries	gr-qc	http://arxiv.org/abs/0801.4070v1
+Arxiv	14e4a9cad18e11ea9a8facde48001122	Getting Your Eye In: A Bayesian Analysis of Early Dismissals in Cricket	stat.AP	http://arxiv.org/abs/0801.4408v2
+Arxiv	1736a6a6d18e11ea9a8facde48001122	Introduction to Monte Carlo methods for an Ising Model of a Ferromagnet	cond-mat.stat-mech	http://arxiv.org/abs/0803.0217v1
+Arxiv	18d7576cd18e11ea9a8facde48001122	Improved time-frequency analysis of extreme-mass-ratio inspiral signals
+  in mock LISA data	gr-qc	http://arxiv.org/abs/0804.1084v1
+Arxiv	1a68130ad18e11ea9a8facde48001122	A Markov Chain Monte Carlo Algorithm for analysis of low signal-to-noise
+  CMB data	astro-ph	http://arxiv.org/abs/0807.0624v1
+Arxiv	1d68b67cd18e11ea9a8facde48001122	Principle of detailed balance and convergence assessment of Markov Chain
+  Monte Carlo methods and simulated annealing	stat.CO	http://arxiv.org/abs/0807.3151v1
+Arxiv	1f09874ad18e11ea9a8facde48001122	Mixing time of exponential random graphs	math.PR	http://arxiv.org/abs/0812.2265v1
+Arxiv	20a92f6ad18e11ea9a8facde48001122	An algorithm for detection of extreme mass ratio inspirals in LISA data	gr-qc	http://arxiv.org/abs/0902.4133v1
+Arxiv	22387368d18e11ea9a8facde48001122	Cosmic Swarms: A search for Supermassive Black Holes in the LISA data
+  stream with a Hybrid Evolutionary Algorithm	gr-qc	http://arxiv.org/abs/0903.3733v1
+Arxiv	23c843cad18e11ea9a8facde48001122	Studying stellar binary systems with the Laser Interferometer Space
+  Antenna using Delayed Rejection Markov chain Monte Carlo methods	gr-qc	http://arxiv.org/abs/0905.2976v2
+Arxiv	255b3166d18e11ea9a8facde48001122	Bayesian Inference on QGARCH Model Using the Adaptive Construction
+  Scheme	q-fin.CP	http://arxiv.org/abs/0907.5276v1
+Arxiv	26eb560ad18e11ea9a8facde48001122	Direct determination of the solar neutrino fluxes from solar neutrino
+  data	hep-ph	http://arxiv.org/abs/0910.4584v4
+Arxiv	287d2566d18e11ea9a8facde48001122	Path Integral over Reparametrizations: Levy Flights versus Random Walks	hep-th	http://arxiv.org/abs/0911.1083v3
+Arxiv	2a0dcf98d18e11ea9a8facde48001122	Bayesian evidence: can we beat MultiNest using traditional MCMC methods?	astro-ph.IM	http://arxiv.org/abs/0911.2150v1
+Arxiv	2bacf496d18e11ea9a8facde48001122	Geometric Representations of Random Hypergraphs	math.ST	http://arxiv.org/abs/0912.3648v3
+Arxiv	2ebfd004d18e11ea9a8facde48001122	Optimal tuning of the Hybrid Monte-Carlo Algorithm	math.PR	http://arxiv.org/abs/1001.4460v1
+Arxiv	305dd302d18e11ea9a8facde48001122	Computationally Efficient Estimation of Factor Multivariate Stochastic
+  Volatility Models	stat.CO	http://arxiv.org/abs/1002.2017v1
+Arxiv	31fee3c2d18e11ea9a8facde48001122	Spatial birth-death swap chains	math.PR	http://arxiv.org/abs/1006.5934v2
+Arxiv	339070a2d18e11ea9a8facde48001122	Bayesian Model Selection for Beta Autoregressive Processes	math.ST	http://arxiv.org/abs/1008.0121v1
+Arxiv	352fecd0d18e11ea9a8facde48001122	Hyper-g Priors for Generalized Linear Models	stat.ME	http://arxiv.org/abs/1008.1550v1
+Arxiv	36c321fcd18e11ea9a8facde48001122	Estimating Discrete Markov Models From Various Incomplete Data Schemes	stat.CO	http://arxiv.org/abs/1009.1216v2
+Arxiv	385500d0d18e11ea9a8facde48001122	Efficient Bayesian Inference for Generalized Bradley-Terry Models	stat.ME	http://arxiv.org/abs/1011.1761v1
+Arxiv	3a0802ecd18e11ea9a8facde48001122	Bayesian meta-analysis for identifying periodically expressed genes in
+  fission yeast cell cycle	stat.AP	http://arxiv.org/abs/1011.2104v1
+Arxiv	3c20d98cd18e11ea9a8facde48001122	Quasi-conjugate Bayes estimates for GPD parameters and application to
+  heavy tails modelling	stat.ME	http://arxiv.org/abs/1103.6216v1
+Arxiv	3dc94c60d18e11ea9a8facde48001122	Optimal design of measurement network for neutronic activity field
+  reconstruction by data assimilation	physics.data-an	http://arxiv.org/abs/1104.2120v2
+Arxiv	41238fc4d18e11ea9a8facde48001122	Restricted Collapsed Draw: Accurate Sampling for Hierarchical Chinese
+  Restaurant Process Hidden Markov Models	stat.ML	http://arxiv.org/abs/1106.0474v1
+Arxiv	42c53c06d18e11ea9a8facde48001122	Bayesian inference from photometric redshift surveys	astro-ph.CO	http://arxiv.org/abs/1106.2757v1
+Arxiv	4457fc7ad18e11ea9a8facde48001122	Monte Carlo algorithms for model assessment via conflicting summaries	stat.ME	http://arxiv.org/abs/1106.5919v1
+Arxiv	45fb2f20d18e11ea9a8facde48001122	Joint Modeling of Multiple Related Time Series via the Beta Process	stat.ME	http://arxiv.org/abs/1111.4226v1
+Arxiv	479c9ca6d18e11ea9a8facde48001122	Markovian stochastic approximation with expanding projections	math.PR	http://arxiv.org/abs/1111.5421v2
+Arxiv	493a7c0ed18e11ea9a8facde48001122	Bayesian inference for logistic models using Polya-Gamma latent
+  variables	stat.ME	http://arxiv.org/abs/1205.0310v3
+Arxiv	4ad97498d18e11ea9a8facde48001122	General Construction of Irreversible Kernel in Markov Chain Monte Carlo	cond-mat.stat-mech	http://arxiv.org/abs/1207.0258v1
+Arxiv	4c8b980cd18e11ea9a8facde48001122	Estimating the granularity coefficient of a Potts-Markov random field
+  within an MCMC algorithm	stat.CO	http://arxiv.org/abs/1207.5355v1
+Arxiv	4e1d01f6d18e11ea9a8facde48001122	A completely random T-tessellation model and Gibbsian extensions	math.ST	http://arxiv.org/abs/1302.1809v3
+Arxiv	4fbd360cd18e11ea9a8facde48001122	Adaptive Metropolis-Hastings Sampling using Reversible Dependent Mixture
+  Proposals	stat.ME	http://arxiv.org/abs/1305.2634v2
+Arxiv	52d20c82d18e11ea9a8facde48001122	Generalized Denoising Auto-Encoders as Generative Models	cs.LG	http://arxiv.org/abs/1305.6663v4
+Arxiv	546fc6a6d18e11ea9a8facde48001122	Monte Carlo methods for light propagation in biological tissues	stat.CO	http://arxiv.org/abs/1311.5343v2
+Arxiv	56121b3ad18e11ea9a8facde48001122	Bayesian spike inference from calcium imaging data	q-bio.NC	http://arxiv.org/abs/1311.6864v1
+Arxiv	57b3e086d18e11ea9a8facde48001122	A Hamiltonian Monte Carlo method for Bayesian Inference of Supermassive
+  Black Hole Binaries	gr-qc	http://arxiv.org/abs/1311.7539v1
+Arxiv	5944bdb2d18e11ea9a8facde48001122	Bayesian Variable Selection on Model Spaces Constrained by Heredity
+  Conditions	stat.ME	http://arxiv.org/abs/1312.6611v2
+Arxiv	5af4145ad18e11ea9a8facde48001122	Empirical Study of the GARCH model with Rational Errors	q-fin.CP	http://arxiv.org/abs/1312.7057v1
+Arxiv	5c9cc63ad18e11ea9a8facde48001122	Efficient computational strategies for doubly intractable problems with
+  applications to Bayesian social networks	stat.CO	http://arxiv.org/abs/1403.4402v2
+Arxiv	5ea2e3b0d18e11ea9a8facde48001122	A Multiple Prior Monte Carlo Method for the Backward Heat Diffusion
+  Problem	math.NA	http://arxiv.org/abs/1405.4766v1
+Arxiv	60862e58d18e11ea9a8facde48001122	Convergence of a Metropolized Integrator for Stochastic Differential
+  Equations with Variable Diffusion Coefficient	math.NA	http://arxiv.org/abs/1405.5264v2
+Arxiv	62275174d18e11ea9a8facde48001122	Normalizations of the Proposal Density in Markov Chain Monte Carlo
+  Algorithms	math.NA	http://arxiv.org/abs/1410.2972v2
+Arxiv	653b6a6cd18e11ea9a8facde48001122	Non-parametric Bayesian Learning with Deep Learning Structure and Its
+  Applications in Wireless Networks	cs.LG	http://arxiv.org/abs/1410.4599v2
+Arxiv	66dabd64d18e11ea9a8facde48001122	Efficient adaptive MCMC through precision estimation	stat.CO	http://arxiv.org/abs/1505.03908v2
+Arxiv	688a68bcd18e11ea9a8facde48001122	Graph_sampler: a simple tool for fully Bayesian analyses of DAG-models	stat.CO	http://arxiv.org/abs/1505.07228v2
+Arxiv	6a29373ed18e11ea9a8facde48001122	On the Computational Complexity of High-Dimensional Bayesian Variable
+  Selection	math.ST	http://arxiv.org/abs/1505.07925v1
+Arxiv	6bc92996d18e11ea9a8facde48001122	A New Approach to Probabilistic Programming Inference	stat.ML	http://arxiv.org/abs/1507.00996v2
+Arxiv	6d6a6620d18e11ea9a8facde48001122	Fast sampling in a linear-Gaussian inverse problem	stat.CO	http://arxiv.org/abs/1507.01614v2
+Arxiv	6f0b40b2d18e11ea9a8facde48001122	Fast Langevin based algorithm for MCMC in high dimensions	math.NA	http://arxiv.org/abs/1507.02166v3
+Arxiv	70ac5f6ed18e11ea9a8facde48001122	Introduction to the variational and diffusion Monte Carlo methods	physics.chem-ph	http://arxiv.org/abs/1508.02989v1
+Arxiv	724a374cd18e11ea9a8facde48001122	Fast, Flexible Models for Discovering Topic Correlation across
+  Weakly-Related Collections	cs.CL	http://arxiv.org/abs/1508.04562v1
+Arxiv	73ebe2b2d18e11ea9a8facde48001122	Extracting galactic binary signals from the first round of Mock LISA
+  Data Challenges	gr-qc	http://arxiv.org/abs/0704.2917v1
+Arxiv	76ec2bb6d18e11ea9a8facde48001122	Exact sampling for intractable probability distributions via a Bernoulli
+  factory	stat.CO	http://arxiv.org/abs/1012.3768v2
+Arxiv	78af9910d18e11ea9a8facde48001122	Bayesian estimation of GARCH model with an adaptive proposal density	q-fin.ST	http://arxiv.org/abs/1012.5986v2
+Arxiv	7a431c48d18e11ea9a8facde48001122	MCMC for doubly-intractable distributions	stat.CO	http://arxiv.org/abs/1206.6848v1
+Arxiv	7be7573ad18e11ea9a8facde48001122	General-Purpose MCMC Inference over Relational Structures	cs.AI	http://arxiv.org/abs/1206.6849v1
+Arxiv	7d88922ad18e11ea9a8facde48001122	Skew-Gaussian Random Fields	stat.ME	http://arxiv.org/abs/1402.1138v1
+Arxiv	7f297cd4d18e11ea9a8facde48001122	Stochastic Gradient Hamiltonian Monte Carlo	stat.ME	http://arxiv.org/abs/1402.4102v2
+Arxiv	80c942e0d18e11ea9a8facde48001122	Learning From Ordered Sets and Applications in Collaborative Ranking	cs.LG	http://arxiv.org/abs/1408.0043v1
+Arxiv	83194054d18e11ea9a8facde48001122	Fluctuation Analysis of Adaptive Multilevel Splitting	math.ST	http://arxiv.org/abs/1408.6366v3
+Arxiv	84bcba3ad18e11ea9a8facde48001122	On Single Variable Transformation Approach to Markov Chain Monte Carlo	stat.ME	http://arxiv.org/abs/1408.6667v1
+Arxiv	8669a988d18e11ea9a8facde48001122	Lifted Probabilistic Inference for Asymmetric Graphical Models	cs.AI	http://arxiv.org/abs/1412.0315v1
+Arxiv	8986c43ed18e11ea9a8facde48001122	Bayesian estimation of discrete Burr distribution with two parameters	stat.CO	http://arxiv.org/abs/1501.05876v3
+Arxiv	8b26c42ed18e11ea9a8facde48001122	Additional material on bounds of $\ell^2$-spectral gap for discrete
+  Markov chains with band transition matrices	math.PR	http://arxiv.org/abs/1503.02206v2
+Arxiv	8cc5aeb2d18e11ea9a8facde48001122	Perturbation theory for Markov chains via Wasserstein distance	stat.CO	http://arxiv.org/abs/1503.04123v3
+Arxiv	8e643cd4d18e11ea9a8facde48001122	Light and Widely Applicable MCMC: Approximate Bayesian Inference for
+  Large Datasets	stat.ME	http://arxiv.org/abs/1503.04178v2
+Arxiv	90032226d18e11ea9a8facde48001122	Dynamic Models of Animal Movement with Spatial Point Process
+  Interactions	stat.AP	http://arxiv.org/abs/1503.08692v3
+Arxiv	91cd5590d18e11ea9a8facde48001122	A Time-varying Parameter Based Seasonally-adjusted Bayesian State-space
+  Model for Forecasting	stat.ME	http://arxiv.org/abs/1512.02149v1
+Arxiv	936e2668d18e11ea9a8facde48001122	Bayesian Covariance Modelling of Large Tensor-Variate Data Sets $\&$
+  Inverse Non-parametric Learning of the Unknown Model Parameter Vector	stat.AP	http://arxiv.org/abs/1512.05538v1
+Arxiv	9527e66ad18e11ea9a8facde48001122	Pseudolikelihood inference for Gibbsian T-tessellations ... and point
+  processes	math.ST	http://arxiv.org/abs/1512.08407v2
+Arxiv	96c8c84ad18e11ea9a8facde48001122	Distributed Averaging via Lifted Markov Chains	cs.IT	http://arxiv.org/abs/0908.4073v1
+Arxiv	986a3828d18e11ea9a8facde48001122	Bayesian inference for a class of latent Markov models for categorical
+  longitudinal data	stat.ME	http://arxiv.org/abs/1101.0391v2
+Arxiv	9b7faf3ed18e11ea9a8facde48001122	Gradient Flow from a Random Walk in Hilbert Space	math.ST	http://arxiv.org/abs/1108.1494v4
+Arxiv	9d20ad20d18e11ea9a8facde48001122	Improving Convergence Rate of Distributed Consensus Through Asymmetric
+  Weights	math.OC	http://arxiv.org/abs/1203.2717v1
+Arxiv	9ec2cb7cd18e11ea9a8facde48001122	Constraints on Cosmological Parameters from Strong Gravitational Lensing
+  by Galaxy Clusters	astro-ph.CO	http://arxiv.org/abs/1204.0372v1
+Arxiv	a062baf0d18e11ea9a8facde48001122	Dirichlet Posterior Sampling with Truncated Multinomial Likelihoods	stat.ME	http://arxiv.org/abs/1208.6537v2
+Arxiv	a2055d22d18e11ea9a8facde48001122	Correlação de longa-duração e analíse bayesiana da
+  evolução temporal dos terremotos ao longo da falha de samambaia,
+  nordeste do brasil	physics.geo-ph	http://arxiv.org/abs/1306.4870v1
