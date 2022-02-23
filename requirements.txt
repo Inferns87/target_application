@@ -1,0 +1,9 @@
+numpy
+pandas
+pdfminer
+nltk
+matplotlib
+beautiful soup 4
+urllib2
+pycontractions
+unidecode

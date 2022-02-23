@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+
+# Extensions
+*.zip
+*.7z
+*.gz
+*.vectors
+*.pdf
+
+# Folders
+**/pdf/*
+**/raw/*
+**/vectorised/*
+**/models/*
